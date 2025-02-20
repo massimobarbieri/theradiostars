@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/album/</loc>
     <lastmod>2025-02-20T08:04:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/0/</loc>
+    <loc>http://localhost:1313/posts/19970607-gyno/</loc>
     <lastmod>2025-02-20T08:04:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/live/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/live/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/19940129-covo/</loc>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
   </url>
 </urlset>
