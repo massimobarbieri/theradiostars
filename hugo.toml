@@ -38,7 +38,7 @@ headerTitle = "The Radiostars"
 # waline = true
 # walineServer = ""
 
-# email = ""
+email = "info@theradiostars.com"
 
 siteStartYear = 1995
 
@@ -54,7 +54,7 @@ siteStartYear = 1995
 # noDefaultSummaryCover = true
 # showTableOfContents = true
 # showSummaryCoverInPost = true
-# imageZoomableInPost = true
+imageZoomableInPost = true
 # showPrevNextPost = true
 # reorderShares = ["x", "facebook", "whatsapp"]
 
