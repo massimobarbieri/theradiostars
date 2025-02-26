@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 13:31:20 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 14:24:11 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Discografia</title>
+      <link>//localhost:1313/discog/</link>
+      <pubDate>Wed, 26 Feb 2025 14:24:11 +0100</pubDate>
+      
+      <guid>//localhost:1313/discog/</guid>
+      <description> Dancing MTTY FWMHB Endless </description>
+      
+    </item>
+    
+    <item>
+      <title>Endless</title>
+      <link>//localhost:1313/endless/</link>
+      <pubDate>Wed, 26 Feb 2025 14:21:14 +0100</pubDate>
+      
+      <guid>//localhost:1313/endless/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fwmhb</title>
+      <link>//localhost:1313/fwmhb/</link>
+      <pubDate>Wed, 26 Feb 2025 14:21:08 +0100</pubDate>
+      
+      <guid>//localhost:1313/fwmhb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mtty</title>
+      <link>//localhost:1313/mtty/</link>
+      <pubDate>Wed, 26 Feb 2025 14:21:02 +0100</pubDate>
+      
+      <guid>//localhost:1313/mtty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dancing</title>
+      <link>//localhost:1313/dancing/</link>
+      <pubDate>Wed, 26 Feb 2025 14:18:57 +0100</pubDate>
+      
+      <guid>//localhost:1313/dancing/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Hello</title>
