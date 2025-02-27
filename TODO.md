@@ -1,2 +1,4 @@
-- Come mettere una immagine di copertina dei post
-- Immagini degli album nella pagina discografia
+- Come mettere una immagine di copertina nei post?
+- Immagini degli album nella pagina discografia con link alle sottopagine
+- Icona di Jamendo
+- Decidere lingua
