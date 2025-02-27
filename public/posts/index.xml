@@ -9,7 +9,17 @@
     <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
     <webMaster>youremail@example.com (The Radiostars)</webMaster>
     <copyright>© 2025 The Radiostars</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 13:31:20 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 08:33:06 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dancing at the Gyno</title>
+      <link>//localhost:1313/posts/19970607-gyno/</link>
+      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>//localhost:1313/posts/19970607-gyno/</guid>
+      <description>&lt;p&gt;In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou e noi fummo felici.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Hello</title>
