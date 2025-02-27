@@ -22,42 +22,12 @@
     </item>
     
     <item>
-      <title>Endless</title>
-      <link>//localhost:1313/discog/endless/</link>
-      <pubDate>Wed, 26 Feb 2025 14:21:14 +0100</pubDate>
+      <title>Discografia</title>
+      <link>//localhost:1313/discog/</link>
+      <pubDate>Wed, 26 Feb 2025 14:24:11 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:1313/discog/endless/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fwmhb</title>
-      <link>//localhost:1313/discog/fwmhb/</link>
-      <pubDate>Wed, 26 Feb 2025 14:21:08 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:1313/discog/fwmhb/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mtty</title>
-      <link>//localhost:1313/discog/mtty/</link>
-      <pubDate>Wed, 26 Feb 2025 14:21:02 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:1313/discog/mtty/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dancing</title>
-      <link>//localhost:1313/discog/dancing/</link>
-      <pubDate>Wed, 26 Feb 2025 14:18:57 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:1313/discog/dancing/</guid>
-      <description>Questa è la pagina di dancing</description>
+      <guid>//localhost:1313/discog/</guid>
+      <description> Album # Dancing MTTY FWMHB Endless </description>
       
     </item>
     

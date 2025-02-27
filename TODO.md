@@ -1,0 +1,2 @@
+- Come mettere una immagine di copertina dei post
+- Immagini degli album nella pagina discografia
