@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Radiostars</title>
-    <link>//localhost:44265/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on The Radiostars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
     <webMaster>youremail@example.com (The Radiostars)</webMaster>
     <copyright>© 2025 The Radiostars</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 08:33:06 +0100</lastBuildDate><atom:link href="//localhost:44265/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 08:33:06 +0100</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Album</title>
-      <link>//localhost:44265/tags/album/</link>
+      <link>//localhost:1313/tags/album/</link>
       <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:44265/tags/album/</guid>
+      <guid>//localhost:1313/tags/album/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Live</title>
-      <link>//localhost:44265/tags/live/</link>
+      <link>//localhost:1313/tags/live/</link>
       <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>//localhost:44265/tags/live/</guid>
+      <guid>//localhost:1313/tags/live/</guid>
       <description></description>
       
     </item>
