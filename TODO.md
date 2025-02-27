@@ -1,3 +1,4 @@
+- Capire come organizzare i contenuti nella cartella 'content' ad esempio della discografia
 - Come mettere una immagine di copertina nei post?
 - Immagini degli album nella pagina discografia con link alle sottopagine
 - Icona di Jamendo
