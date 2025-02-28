@@ -5,7 +5,8 @@
       page come se fossero dei post (preferirei avere solo i post)
     * Non posso chiamare le pagine index.md o _index.md il significato
       di questi due file pensavo di averlo capito ma invece non ho 
-      capito una mazza
+      capito una mazza. Ho capito che se usi _index.md crei un branches,
+      se usi index.md crei un leaf e non puoi metterci pagine.
 
 - Come mettere una immagine (cover) di copertina nei post?
 
