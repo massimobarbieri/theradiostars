@@ -2,7 +2,7 @@
   ad esempio della discografia. Ora come ho fatto funziona, ma non
   ho capito alcune cose:
     * Perché ha iniziato a mettermi le pagine discografia nella home 
-      page come se fossero dei post
+      page come se fossero dei post (preferirei avere solo i post)
     * Non posso chiamare le pagine index.md o _index.md il significato
       di questi due file pensavo di averlo capito ma invece non ho 
       capito una mazza
