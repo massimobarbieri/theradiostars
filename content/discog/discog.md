@@ -21,7 +21,7 @@ draft = true
     nozoom=true
     >}}
 
-- [Dancing](dancing)
-- [MTTY](mtty)
-- [FWMHB](fwmhb)
-- [Endless](endless)
+- [Dancing](/discog/dancing)
+- [MTTY](/discog/mtty)
+- [FWMHB](/discog/fwmhb)
+- [Endless](/discog/endless)

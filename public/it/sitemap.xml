@@ -31,8 +31,38 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/discog/discog/</loc>
+    <lastmod>2025-02-26T14:24:11+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/discog/</loc>
     <lastmod>2025-02-26T14:24:11+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/discog/endless/</loc>
+    <lastmod>2025-02-26T14:21:14+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/discog/fwmhb/</loc>
+    <lastmod>2025-02-26T14:21:08+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/discog/mtty/</loc>
+    <lastmod>2025-02-26T14:21:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/discog/dancing/</loc>
+    <lastmod>2025-02-26T14:18:57+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

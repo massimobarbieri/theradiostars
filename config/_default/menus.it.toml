@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Discografia"
-  pageRef = "discog"
+  pageRef = "discog/discog"
   weight = 9
 
 #[[main]]
