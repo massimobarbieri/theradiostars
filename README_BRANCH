@@ -1,0 +1,10 @@
+nel branch dev_dadda ho creato una pagina "Discografia Dev"
+seguendo un how to visto da youtube.
+Sotto discog_dev ho creato la pagina _index.md
+Questo indica al tema che la pagina e' una lista quindi le sottocartelle diventano automaticamente
+link della stessa. (e viene messa in automatico l'immagine della sottocartella con il nome fratured.jpg)
+Nelle sottocartelle crei index.md con la pagina e featured.jpg che diventa anche in automatico anche
+il background.
+la data della pagina ne determina l'ordinamento nella pagina discog_dev
+Ho variato anche i toml sotto config perche' subito non funzionava nulla, ma poi, dopo varie prove e modifiche,
+ha funzionato.

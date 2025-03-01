@@ -13,17 +13,23 @@
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Discografia"
   pageRef = "discog/discog"
-  weight = 9
+  weight = 2
 
 [[main]]
   name = "Discografia Dev"
-  pageRef = "discog_dev/discog_dev"
-  weight = 9
+  pageRef = "discog_dev"
+  weight = 3
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com"
+  weight = 4
 
 #[[main]]
 #  name = "Parent"

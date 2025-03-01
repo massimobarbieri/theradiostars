@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Series &middot; The Radiostars</title>
-  <meta name="title" content="Series &middot; The Radiostars" />
+  <title>Series &middot; </title>
+  <meta name="title" content="Series &middot; " />
   
   
   
@@ -17,7 +17,7 @@
   
   <link rel="canonical" href="http://localhost:1313/en/series/" />
   
-  <link rel="alternate" type="application/rss+xml" href="/en/series/index.xml" title="The Radiostars" />
+  <link rel="alternate" type="application/rss+xml" href="/en/series/index.xml" title="" />
   
   
   
@@ -67,7 +67,6 @@
   
   
   <meta property="og:url" content="http://localhost:1313/en/series/">
-  <meta property="og:site_name" content="The Radiostars">
   <meta property="og:title" content="Series">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
@@ -128,28 +127,18 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
-    
-    
-    
-    <div>
-        <a href="/en/" class="flex">
-            <span class="sr-only">The Radiostars</span>
-
-            
-            <img src="/img/logo.png" width="1162" height="1162"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="The Radiostars" />
-            
-
-        </a>
-    </div>
     
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
             
-            <a href="/en/" class="text-base font-medium text-gray-500 hover:text-gray-900">The Radiostars</a>
+            <a href="/en/" class="text-base font-medium text-gray-500 hover:text-gray-900"></a>
             
 
         </nav>
@@ -423,6 +412,26 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
