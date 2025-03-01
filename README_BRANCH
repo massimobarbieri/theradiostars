@@ -8,5 +8,3 @@ il background.
 la data della pagina ne determina l'ordinamento nella pagina discog_dev
 Ho variato anche i toml sotto config perche' subito non funzionava nulla, ma poi, dopo varie prove e modifiche,
 ha funzionato.
-
-
