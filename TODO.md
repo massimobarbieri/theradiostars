@@ -7,6 +7,7 @@
       di questi due file pensavo di averlo capito ma invece non ho 
       capito una mazza. Ho capito che se usi _index.md crei un branches,
       se usi index.md crei un leaf e non puoi metterci pagine.
+    * Nella homepage vorrei i post non le ultime pagine della discog
 
 - Come mettere una immagine (cover) di copertina nei post?
 
