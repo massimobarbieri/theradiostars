@@ -26,3 +26,5 @@ Quella sera, le vendite di Dancing le Cibaou-Cibaou, pur notevoli, non fecero sc
 
 ![Presentazione di Dancing al Gyno](/img/gyno/gyno1.jpg)
 
+<img class="thumbnailshadow" src="img/gyno1.jpg">
+

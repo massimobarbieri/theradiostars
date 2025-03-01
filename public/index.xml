@@ -18,7 +18,7 @@
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/posts/19970607-gyno/</guid>
       <description>&lt;p&gt;In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou.&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19970607-gyno/featured.jpg" />
     </item>
     
     <item>
@@ -78,6 +78,16 @@
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/posts/hello/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
     

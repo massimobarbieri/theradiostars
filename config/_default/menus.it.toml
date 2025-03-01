@@ -13,7 +13,7 @@
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 2
+  weight = 1
 
 #[[main]]
 #  name = "Discografia"
@@ -23,7 +23,7 @@
 [[main]]
   name = "Discografia"
   pageRef = "discog_dev"
-  weight = 1
+  weight = 2
 
 [[main]]
   identifier = "youtube"
@@ -87,10 +87,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 3
 
 
 # -- Footer Menu --
