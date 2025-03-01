@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discog_devs on The Radiostars</title>
+    <link>http://localhost:1313/discog_dev/</link>
+    <description>Recent content in Discog_devs on The Radiostars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
+    <webMaster>youremail@example.com (The Radiostars)</webMaster>
+    <copyright>© 2025 The Radiostars</copyright>
+    <lastBuildDate>Wed, 26 Feb 2025 14:24:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/discog_dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Discografia</title>
+      <link>http://localhost:1313/discog_dev/discog_dev/</link>
+      <pubDate>Wed, 26 Feb 2025 14:24:11 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog_dev/discog_dev/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

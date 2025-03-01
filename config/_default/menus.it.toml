@@ -20,6 +20,11 @@
   pageRef = "discog/discog"
   weight = 9
 
+[[main]]
+  name = "Discografia Dev"
+  pageRef = "discog_dev/discog_dev"
+  weight = 9
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
