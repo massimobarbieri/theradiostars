@@ -13,23 +13,47 @@
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 1
+  weight = 2
+
+#[[main]]
+#  name = "Discografia"
+#  pageRef = "discog/discog"
+#  weight = 2
 
 [[main]]
   name = "Discografia"
-  pageRef = "discog/discog"
-  weight = 2
-
-[[main]]
-  name = "Discografia Dev"
   pageRef = "discog_dev"
-  weight = 3
+  weight = 1
 
 [[main]]
   identifier = "youtube"
   pre = "youtube"
-  url = "https://www.youtube.com"
+  url = "https://www.youtube.com/@radiostarschannel"
   weight = 4
+
+[[main]]
+  identifier = "spotify"
+  pre = "spotify"
+  url = "https://open.spotify.com"
+  weight = 5
+
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/profile.php?id=100067201026057"
+  weight = 6
+
+[[main]]
+  identifier = "flickr"
+  pre = "flickr"
+  url = "https://www.flickr.com/photos/radiostars/"
+  weight = 6
+
+[[main]]
+  identifier = "x-twitter"
+  pre = "x-twitter"
+  url = "https://www.x.com/theradiostars"
+  weight = 99
 
 #[[main]]
 #  name = "Parent"
