@@ -27,7 +27,7 @@
       <pubDate>Wed, 26 Feb 2025 14:24:11 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog/discog/</guid>
-      <description></description>
+      <description> Album # Dancing MTTY FWMHB Endless </description>
       
     </item>
     
@@ -37,7 +37,7 @@
       <pubDate>Wed, 26 Feb 2025 14:21:14 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog/endless/</guid>
-      <description></description>
+      <description>Direi che strutturata così questa pagina è una foglia (leaf bundles)</description>
       
     </item>
     
@@ -67,7 +67,7 @@
       <pubDate>Wed, 26 Feb 2025 14:18:57 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog/dancing/</guid>
-      <description></description>
+      <description>Questa è la pagina di dancing</description>
       
     </item>
     
@@ -77,7 +77,7 @@
       <pubDate>Wed, 26 Feb 2025 13:31:20 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description></description>
+      <description>Hello World!</description>
       
     </item>
     
@@ -94,40 +94,40 @@
     <item>
       <title>Endless Morning</title>
       <link>http://localhost:1313/discog_dev/em/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog_dev/em/</guid>
-      <description></description>
+      <description>Album - ©2008 Radiostars</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/em/featured.jpg" />
     </item>
     
     <item>
-      <title>FWMHB</title>
+      <title>For What Might Have Been</title>
       <link>http://localhost:1313/discog_dev/fwmhb/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog_dev/fwmhb/</guid>
-      <description></description>
+      <description>Album - ©2003 Radiostars</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/fwmhb/featured.jpg" />
     </item>
     
     <item>
-      <title>MTTY</title>
+      <title>More Traditional Than You</title>
       <link>http://localhost:1313/discog_dev/mtty/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog_dev/mtty/</guid>
-      <description></description>
+      <description>Album - ©1999 Radiostars</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/mtty/featured.jpg" />
     </item>
     
     <item>
       <title>Danging le Cibaou-Cibaou</title>
       <link>http://localhost:1313/discog_dev/dancing/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jun 1997 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog_dev/dancing/</guid>
-      <description></description>
+      <description>Album - ©1997 Radiostars</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/dancing/featured.jpg" />
     </item>
     
@@ -137,7 +137,7 @@
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/test/</guid>
-      <description></description>
+      <description>Copertina Titolo Anno DANCING Dancing le cibaou cibaou 1997 MORE More Traditional Than You 1999 FWMHB For What Might Have Been 2003 EM Endless Morning 2008 Endless Morning 2008 Altro testo</description>
       
     </item>
     

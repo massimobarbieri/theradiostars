@@ -70,13 +70,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/discog_dev/</loc>
-    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/discog_dev/em/</loc>
-    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -94,7 +94,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/discog_dev/dancing/</loc>
-    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
+    <lastmod>1997-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

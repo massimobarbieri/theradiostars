@@ -7,17 +7,19 @@ summary: "Album - ©1997 Radiostars"
 showSummary: 'true'
 series_order: 1
 ---
-Ascolta l'abum su:
-[{{< icon "spotify" >}}](https://spotify.com "Spotify")
-[{{< icon "youtube" >}}](https://youtube.com "YouTube")
 
 <!-- TODO: Il link funziona ma è la lente -->
 [![Album cover](featured.jpg)](https://spotify.com)
 
+Mettiamo una tabella con i link alle tracce? (Quando ci saranno)
 
-| #     | Lista delle tracce                    |
-| :---: | :---                                  |
-| 1     | A spy in the arena                    |
+**Ascolta l'abum su:
+[{{< icon "spotify" >}}](https://spotify.com "Spotify")
+[{{< icon "youtube" >}}](https://youtube.com "YouTube")**
+
+| #     | Lista delle tracce                    | Ascolta su    |
+| :---: | :---                                  | :---          |
+| 1     | A spy in the arena                    | [{{< icon "spotify" >}}](https://spotify.com "Spotify")|
 | 2     | Mountains of juicy telepathic pine    |
 | 3     | Her own things                        |
 | 4     | All together at the party with my favourite dog and a part of me |
