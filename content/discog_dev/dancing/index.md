@@ -38,3 +38,8 @@ Mettiamo una tabella con i link alle tracce? (Quando ci saranno)
 | 15    | A great day get all daisies useful    |
 | 16    | Rock and roll music                   |
 
+
+## Articoli collegati
+POSSIAMO AGGIUNGERE ARTICOLI COLLEGATI IN QUESTO MODO -->
+{{< article link="/posts/19970607-gyno/" >}}
+

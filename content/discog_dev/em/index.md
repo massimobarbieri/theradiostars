@@ -7,6 +7,8 @@ summary: "Album - ©2008 Radiostars"
 showSummary: 'true'
 series_order: 4
 ---
+METTO IN QUESTA PAGINA UN PO' DI TEST PER CAPIRE COME GESTIRE LO STREAMING
+
 
 [{{< icon "jamendo" >}}](https://www.jamendo.com/album/27539/endless-morning "Jamendo")
 
@@ -15,6 +17,10 @@ Availabe on [Jamendo](https://www.jamendo.com/album/27539/endless-morning "Jamen
 
 <!-- TODO: Il link funziona ma bisogna togliere la lente -->
 [![Album cover](featured.jpg)](https://www.jamendo.com/album/27539/endless-morning "Jamendo")
+
+{{< button href="" target="_self" >}}
+Play on Jamendo
+{{< /button >}}
 
 
 

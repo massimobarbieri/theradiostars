@@ -1,7 +1,7 @@
 +++
 title = 'Dancing at the Gyno'
 date = 2025-02-27T08:33:06+01:00
-draft = true
+draft = false
 tags = ['Live','Album']
 showSummary = 'true'
 +++
