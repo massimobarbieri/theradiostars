@@ -8,11 +8,14 @@ showSummary: 'true'
 series_order: 4
 ---
 
+[{{< icon "jamendo" >}}](https://www.jamendo.com/album/27539/endless-morning "Jamendo")
+
+Availabe on [Jamendo](https://www.jamendo.com/album/27539/endless-morning "Jamendo"), Spotify
+
+
 <!-- TODO: Il link funziona ma bisogna togliere la lente -->
 [![Album cover](featured.jpg)](https://www.jamendo.com/album/27539/endless-morning "Jamendo")
 
-**Ascolta l'abum su:
-[{{< icon "jamendo" >}}](https://www.jamendo.com/album/27539/endless-morning "Jamendo")**
 
 
 <!-- TODO: Bisognerebbe embeddare un player -->
