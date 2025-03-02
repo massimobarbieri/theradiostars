@@ -18,3 +18,13 @@ NOTE
 (MAX): Sarebbe bello eliminarlo nella homepage dove è sostituito dal logo grande centrale e averlo in alto a sx solo nelle sottopagine.
   
 3 - ho cambiato il colorsheme perche le icone blu sparavano troppo per me.
+
+
+
+# Embeddare un player audio ###
+###############################
++ Non ho trovato il modo di embeddare Jamendo
++ Ho trovato questo shortcode che permette di embeddare un album caricato su spotify
+  https://gist.github.com/j-un/e7d0b3118556479392bd2269f7059242
+  Il Privacy Badger di FIrefox lo blocca ma cliccando permette l'esecuzione
+
