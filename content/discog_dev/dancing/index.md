@@ -17,6 +17,8 @@ Mettiamo una tabella con i link alle tracce? (Quando ci saranno)
 [{{< icon "spotify" >}}](https://spotify.com "Spotify")
 [{{< icon "youtube" >}}](https://youtube.com "YouTube")**
 
+
+
 | #     | Lista delle tracce                    | Ascolta su    |
 | :---: | :---                                  | :---          |
 | 1     | A spy in the arena                    | [{{< icon "spotify" >}}](https://spotify.com "Spotify")|
