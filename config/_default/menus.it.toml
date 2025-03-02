@@ -43,6 +43,12 @@
   weight = 40
 
 [[main]]
+  name = "Test Page 2"
+  parent = "Test Menu"
+  pageRef = "test2"
+  weight = 40
+
+[[main]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/@radiostarschannel"
