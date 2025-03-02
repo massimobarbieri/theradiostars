@@ -24,7 +24,9 @@ Play on Jamendo
 
 
 
-<!-- TODO: Bisognerebbe embeddare un player -->
+<!-- Aggiunto player spotify, ma Privacy Badger lo blocca -->
+ {{< spotify type="album" id="5vqILcEeCT0N1DeJBsLrGE" width="100%" height="250" >}}
+
 
 
 | #     | Lista delle tracce                    | Ascolta su    |
