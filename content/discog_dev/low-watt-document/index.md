@@ -1,5 +1,5 @@
 ---
-title: "We Bastard motherfuckers!"
+title: "A Low Watt Document"
 draft: false
 date: 2001-01-01
 description: "Descrizione pagina MTTY"
@@ -27,7 +27,7 @@ series_order: 2
 | 7     | Dag King "Cowboys Never Die"                                         |               |
 | 8     | Susan and the Surftones "Tramp"                                      |               |
 | 9     | The Second Sky "The Reggae Song"                                     |               |
-| 10     | Squelch's "Lifeguard"                                               |               |
+| 10    | Squelch's "Lifeguard"                                                |               |
 | 11    | Boetz *(featuring Lemmy Kilmister)* "Call to Arms"                   |               |
 | 12    | DarlingD "Fallout"                                                   |               |
 | 13    | Hurricane Jane "Endless Night"                                       |               |

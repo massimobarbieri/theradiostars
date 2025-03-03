@@ -12,12 +12,52 @@
     <lastBuildDate>Wed, 26 Feb 2025 14:24:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/discog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Discografia</title>
+      <link>http://localhost:1313/discog/discog/</link>
+      <pubDate>Wed, 26 Feb 2025 14:24:11 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog/discog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Endless Morning</title>
       <link>http://localhost:1313/discog/endless/</link>
       <pubDate>Wed, 26 Feb 2025 14:21:14 +0100</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/discog/endless/</guid>
-      <description>Direi che strutturata così questa pagina è una foglia (leaf bundles)</description>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fwmhb</title>
+      <link>http://localhost:1313/discog/fwmhb/</link>
+      <pubDate>Wed, 26 Feb 2025 14:21:08 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog/fwmhb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mtty</title>
+      <link>http://localhost:1313/discog/mtty/</link>
+      <pubDate>Wed, 26 Feb 2025 14:21:02 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog/mtty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dancing</title>
+      <link>http://localhost:1313/discog/dancing/</link>
+      <pubDate>Wed, 26 Feb 2025 14:18:57 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog/dancing/</guid>
+      <description></description>
       
     </item>
     
