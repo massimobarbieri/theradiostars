@@ -11,5 +11,15 @@
     <copyright>© 2025 The Radiostars</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Album</title>
+      <link>http://localhost:1313/categories/album/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/categories/album/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
