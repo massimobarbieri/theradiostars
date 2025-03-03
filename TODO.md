@@ -1,0 +1,1 @@
+- Foto del 45 giri a risoluzione migliore
