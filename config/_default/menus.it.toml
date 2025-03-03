@@ -28,7 +28,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Discografia"
+  name = "Music"
   pageRef = "discog_dev"
   weight = 20
 
