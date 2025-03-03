@@ -12,9 +12,13 @@ series_order: 4
 <!-- Availabe on [Jamendo](https://www.jamendo.com/album/27539/endless-morning "Jamendo"), Spotify -->
 
 
-<!-- TODO: Il link funziona ma bisogna togliere la lente -->
-![Album cover](featured.jpg)
-Released: 2008
+{{< figure
+    src="featured.jpg"
+    alt="Album cover"
+    nozoom="true"
+    >}}
+    
+{{< icon "circle-info" >}}Album released 2008
 
 {{< button href="https://www.jamendo.com/album/27539/endless-morning" target="_self" >}}
 Play on Jamendo

@@ -1,1 +1,2 @@
 - Foto del 45 giri a risoluzione migliore
+- Tracce di Bastard e Fist

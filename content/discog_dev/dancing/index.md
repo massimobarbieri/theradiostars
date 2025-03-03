@@ -8,20 +8,18 @@ showSummary: 'true'
 series_order: 1
 ---
 
-<!-- TODO: Il link funziona ma è la lente -->
-[![Album cover](featured.jpg)](https://spotify.com)
+{{< figure
+    src="featured.jpg"
+    alt="Album cover"
+    nozoom="true"
+    >}}
 
-Mettiamo una tabella con i link alle tracce? (Quando ci saranno)
-
-**Ascolta l'abum su:
-[{{< icon "spotify" >}}](https://spotify.com "Spotify")
-[{{< icon "youtube" >}}](https://youtube.com "YouTube")**
-
+{{< icon "circle-info" >}}Album released 1997
 
 
-| #     | Lista delle tracce                    | Ascolta su    |
+| #     | Lista delle tracce                    |               |
 | :---: | :---                                  | :---          |
-| 1     | A spy in the arena                    | [{{< icon "spotify" >}}](https://spotify.com "Spotify")|
+| 1     | A spy in the arena                    |               |
 | 2     | Mountains of juicy telepathic pine    |
 | 3     | Her own things                        |
 | 4     | All together at the party with my favourite dog and a part of me |

@@ -8,5 +8,26 @@ showSummary: 'true'
 series_order: 3
 ---
 
-<!-- TODO: Il link funziona ma è la lente -->
-[![Album cover](featured.jpg)](https://spotify.com)
+{{< figure
+    src="featured.jpg"
+    alt="Album cover"
+    nozoom="true"
+    >}}
+   
+{{< icon "circle-info" >}}Album released 2003
+
+<!-- {{< button href="https://www.jamendo.com/album/27539/endless-morning" target="_self" >}}
+Play on Jamendo
+{{< /button >}} -->
+
+| #     | Lista delle tracce                    |               |
+| :---: | :---                                  | :---          |
+| 1     | Messa Metronic                        |               |
+| 2     | Vampire                               |               |
+| 3     | On a Saturday Bang                    |               |
+| 4     | Seats are not for Feet                |               |
+| 5     | Feeling like a Tom Curtain            |               |
+| 6     | She Owns Millions                     |               |
+| 7     | Hide a Seek                           |               |
+| 8     | Back from Moncton                     |               |
+| 9     | Twenty Flight Rock                    |               |
