@@ -19,7 +19,7 @@ series_order: 2
 | #     | Lista delle tracce                                                   |               |
 | :---: | :---                                                                 | :---          |
 | 1     | John Brodeur "Infected (So in Love with You)"                        |               |
-| 2     | **The Radiostars "Messa Metronic"**                                  |               |
+| **2** | **The Radiostars "Messa Metronic"**                                  |               |
 | 3     | Martly "Stop"                                                        |               |
 | 4     | Scharff Brothers Band "Scary (Christopher Walken)"                   |               |
 | 5     | Liberty Circuit "Secret Siren"                                       |               |

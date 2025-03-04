@@ -29,7 +29,7 @@ series_order: 2
 | 9     | Dozer - Mammoth mountain                                             |               |
 | 10    | Dogma - Roads of grief                                               |               |
 | 11    | Pelvs - Trippy                                                       |               |
-| 12    | **Radiostars - Sweet little 16**                                     |               |
+| **12**| **Radiostars - Sweet little 16**                                     |               |
 | 13    | Smithwick Machine - 2000 Mercy                                       |               |
 | 14    | Lucid Nation - Landmark                                              |               |
 | 15    | Bongwater - Eyehateyou                                               |               |

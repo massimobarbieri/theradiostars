@@ -12,7 +12,7 @@ series_order: 2
     src="featured.jpg"
     alt="Album cover"
     nozoom="true"
-    >}}
+>}}
 
 {{< icon "circle-info" >}}Compilation - Songs by Joy Division 2010
 
@@ -27,12 +27,19 @@ series_order: 2
 | 7     | Volvo Tapes - Isolation                                              |               |
 | 8     | Magpie - Digital                                                     |               |
 | 9     | the Perris - Insight                                                 |               |
-| 10     | Mustek - A Means to an End                                           |               |
+| 10    | Mustek - A Means to an End                                           |               |
 | 11    | Agata - Exercise One                                                 |               |
 | 12    | Dani Male - heat & Soul                                              |               |
 | 13    | IRRS - Day of the Lord                                               |               |
 | 14    | TV Delventre - Decades                                               |               |
-| 15    | **the Radiostars - They Walked in Line**                             |               |
+| **15**| **the Radiostars - They Walked in Line**                             |               |
 | 16    | Mr. Tomato - No Love Lost                                            |               |
 | 17    | Oscar Abelli Quartet - Atmosphere                                    |               |
 | 18    | the Brutal Dandies - Overcrowding                                    |               |
+
+## Gallery
+
+{{< gallery >}}
+    <img src="different_cover.jpg" class="grid-w33"/>
+    <img src="different_colophon.jpg" class="grid-w33"/>
+{{< /gallery >}}

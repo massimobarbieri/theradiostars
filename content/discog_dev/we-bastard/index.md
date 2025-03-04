@@ -12,7 +12,7 @@ series_order: 2
     src="featured.jpg"
     alt="Album cover"
     nozoom="true"
-    >}}
+>}}
 
 {{< icon "circle-info" >}}Compilation - Blu Bus Records 1995
 
@@ -25,7 +25,7 @@ series_order: 2
 | 6     | Strange Corner - Animal rage                                         |               |
 | 7     | Nuvolablu - L'alba e l'angelo                                        |               |
 | 8     | D.U.S.K. - Notte                                                     |               |
-| 9     | **Radiostars - Let's go**                                            |               |
+| **9** | **Radiostars - Let's go**                                            |               |
 | 10    | Trigger - Rhythm & blood                                             |               |
 | 11    | Merrygoround - 3 o'clock mirror pain                                 |               |
 | 12    | Oltretorrente - Raggio d'azione                                      |               |

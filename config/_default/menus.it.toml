@@ -33,22 +33,6 @@
   weight = 20
 
 [[main]]
-  name = "Test Menu"
-  weight = 40
-
-[[main]]
-  name = "Test Page"
-  parent = "Test Menu"
-  pageRef = "test"
-  weight = 40
-
-[[main]]
-  name = "Test Page 2"
-  parent = "Test Menu"
-  pageRef = "test2"
-  weight = 40
-
-[[main]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/@radiostarschannel"
@@ -100,10 +84,10 @@
 #  pageRef = "posts"
 #  weight = 20
 
-[[subnavigation]]
-  name = "Live"
-  pageRef = "tags/live"
-  weight = 100
+#[[subnavigation]]
+#  name = "Live"
+#  pageRef = "tags/live"
+#  weight = 100
 
 #[[subnavigation]]
 #  name = "My Awesome Category"
@@ -116,10 +100,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --
@@ -127,10 +111,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
 # [[footer]]
 #   name = "Categories"
