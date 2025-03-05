@@ -6,6 +6,7 @@ description: "Descrizione pagina dancing"
 summary: "Album - ©1997 Radiostars"
 showSummary: 'true'
 series_order: 1
+tags: ["Album"]
 ---
 
 {{< figure

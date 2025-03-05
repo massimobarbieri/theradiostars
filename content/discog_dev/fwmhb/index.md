@@ -6,6 +6,7 @@ description: "Descrizione pagina fwmhb"
 summary: "Album - ©2003 Radiostars"
 showSummary: 'true'
 series_order: 3
+tags: ["Album"]
 ---
 
 {{< figure

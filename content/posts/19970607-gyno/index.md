@@ -2,7 +2,7 @@
 title: "Dancing at the Gyno"
 date: 2025-02-27T08:33:06+01:00
 draft: false
-tags: ['Live','Album']
+tags: ['Live']
 description: "Presentazione del disco Dancing le Cibaou-Cibaou al Gyno di Reggio Emilia"
 summary: "In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou"
 showSummary: 'true'

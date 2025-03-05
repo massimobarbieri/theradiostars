@@ -22,15 +22,15 @@
   pageRef = "posts"
   weight = 10
 
-#[[main]]
-#  name = "Discografia"
-#  pageRef = "discog/discog"
-#  weight = 20
-
 [[main]]
   name = "Music"
   pageRef = "discog_dev"
   weight = 20
+
+[[main]]
+  name = "Album"
+  pageRef = "tags/Album"
+  weight = 21
 
 [[main]]
   identifier = "youtube"

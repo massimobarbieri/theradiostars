@@ -6,6 +6,7 @@ description: "Descrizione pagina Endless Morning"
 summary: "Album - ©2008 Radiostars"
 showSummary: 'true'
 series_order: 4
+tags: ["Album"]
 ---
 <!-- [{{< icon "jamendo" >}}](https://www.jamendo.com/album/27539/endless-morning "Jamendo") -->
 
