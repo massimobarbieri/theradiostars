@@ -23,3 +23,6 @@ tags: ["Singoli"]
 | Side a        | You've got a spread                                                  |               |
 | Side b1       | All together at the party with my favourite dog and a part of me     |               |
 | Side b2       | Ga                                                                   |               |
+
+## Interviste
+{{< article link="/posts/19960000-urlo-intervista/" >}}
