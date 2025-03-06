@@ -4,11 +4,13 @@ date: 2025-02-27T08:33:06+01:00
 draft: false
 tags: ['Live']
 description: "Presentazione del disco Dancing le Cibaou-Cibaou al Gyno di Reggio Emilia"
-summary: "In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou"
+summary: "07/06/1997. In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou"
 showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
 ---
+*Live al Gyno di Reggio Emilia, 07/06/1997*
+
 Dopo il nostro esordio musicale avvenuto nel 1994 al Covo di Bologna, iniziammo a suonare dal vivo in svariate birrerie, discoteche, concorsi musicali e Feste dell’Unità tra Parma, Reggio Emilia e Bologna. Durante i primi concerti nel reggiano, un gruppo di punk iniziò a seguirci, accompagnandoci a ogni esibizione.
 
 Nonostante avessimo già inciso il demo tape *Very Clean*, un [45 giri](/discog_dev/45rpm/) con tre brani per l'audio-rivista *Urlo*, edita da PrimaveraRadio di Taranto, e un nostro pezzo fosse stato incluso nella compilation [*We Bastard Motherfuckers!*](/discog_dev/we-bastard) dell’etichetta Blu Bus di Aosta, queste modeste uscite discografiche non bastavano a soddisfare la richiesta dei nostri affezionatissimi *fans*. Con tutta probabilità, molti di loro non sapevano che farsene del 45 giri di *Urlo*, supporto già obsoleto nel ‘97, mentre la compilation della Blu Bus e il demo tape erano così rari che persino noi ne avevamo pochissime copie a disposizione.
