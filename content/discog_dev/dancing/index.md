@@ -41,6 +41,7 @@ tags: ["Album"]
 ## Recensioni
 
 {{< article link="/posts/19970804-mucchio-recensione-dancing/" >}}
+{{< article link="/posts/19970801-rumore-dancing/" >}}
 
 ## Interviste
 {{< article link="/posts/19980101-mucchio-intervista/" >}}
