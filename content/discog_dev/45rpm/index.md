@@ -14,7 +14,8 @@ series_order: 2
     nozoom="true"
     >}}
 
-{{< icon "circle-info" >}}Single vinyl 45 RPM - 1995 Primaveraradio
+{{< icon "circle-info" >}}Single vinyl 45 RPM allegato al numero 15 della rivista Urlo edita nel 1995 da Primaveraradio
+
 
 | #             | Lista delle tracce                                                   |               |
 | :---:         | :---                                                                 | :---          |
