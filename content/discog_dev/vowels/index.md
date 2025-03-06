@@ -6,6 +6,7 @@ description: "45 RPM"
 summary: "Single - ©2008 Radiostars"
 showSummary: 'true'
 series_order: 2
+tags: ["Singoli"]
 ---
 
 {{< figure

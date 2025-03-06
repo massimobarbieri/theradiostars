@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singoli on The Radiostars</title>
+    <link>http://localhost:1313/tags/singoli/</link>
+    <description>Recent content in Singoli on The Radiostars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
+    <webMaster>youremail@example.com (The Radiostars)</webMaster>
+    <copyright>© 2025 The Radiostars</copyright>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/singoli/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vowels poetry</title>
+      <link>http://localhost:1313/discog_dev/vowels/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog_dev/vowels/</guid>
+      <description>Single - ©2008 Radiostars</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/vowels/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>You&#39;ve got a spread</title>
+      <link>http://localhost:1313/discog_dev/45rpm/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/discog_dev/45rpm/</guid>
+      <description>Single Vinyl 45 RPM - 1995 Primaveraradio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/45rpm/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

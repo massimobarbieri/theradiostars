@@ -6,6 +6,7 @@ description: "A fist full of Freebird"
 summary: "Compilation - 1998 Freebird Records"
 showSummary: 'true'
 series_order: 2
+tags: ['Compilation']
 ---
 
 {{< figure

@@ -6,6 +6,7 @@ description: "Descrizione pagina MTTY"
 summary: "Compilation - 2001 Shut Eye Records"
 showSummary: 'true'
 series_order: 2
+tags: ['Compilation']
 ---
 
 {{< figure

@@ -6,6 +6,7 @@ description: "45 RPM"
 summary: "Single Vinyl 45 RPM - 1995 Primaveraradio"
 showSummary: 'true'
 series_order: 2
+tags: ["Singoli"]
 ---
 
 {{< figure

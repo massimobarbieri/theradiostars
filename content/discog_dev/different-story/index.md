@@ -6,6 +6,7 @@ description: "A different story"
 summary: "Compilation - 2010 Songs By Joy Division (Gerra Produzioni)"
 showSummary: 'true'
 series_order: 2
+tags: ['Compilation']
 ---
 
 {{< figure

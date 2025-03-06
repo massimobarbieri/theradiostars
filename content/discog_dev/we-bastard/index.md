@@ -6,6 +6,7 @@ description: "We Bastard motherfuckers"
 summary: "Compilation - 1997 Blu bus"
 showSummary: 'true'
 series_order: 2
+tags: ['Compilation']
 ---
 
 {{< figure
