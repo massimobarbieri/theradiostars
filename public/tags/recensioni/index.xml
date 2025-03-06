@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recensioni on The Radiostars</title>
+    <link>http://localhost:1313/tags/recensioni/</link>
+    <description>Recent content in Recensioni on The Radiostars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
+    <webMaster>youremail@example.com (The Radiostars)</webMaster>
+    <copyright>© 2025 The Radiostars</copyright>
+    <lastBuildDate>Thu, 27 Feb 2025 08:33:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/recensioni/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recensione di Dancing su Mucchio Selvaggio</title>
+      <link>http://localhost:1313/posts/19970804-mucchio-recensione-dancing/</link>
+      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/19970804-mucchio-recensione-dancing/</guid>
+      <description>Articolo di Gianluca Picardi da Mucchio Selvaggio n.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19970804-mucchio-recensione-dancing/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

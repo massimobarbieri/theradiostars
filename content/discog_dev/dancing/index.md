@@ -38,7 +38,14 @@ tags: ["Album"]
 | 16    | Rock and roll music                   |
 
 
-## Articoli collegati
-POSSIAMO AGGIUNGERE ARTICOLI COLLEGATI IN QUESTO MODO -->
+## Recensioni
+
+{{< article link="/posts/19970804-mucchio-recensione-dancing/" >}}
+
+## Interviste
+{{< article link="/posts/19980101-mucchio-intervista/" >}}
+
+
+## Live
 {{< article link="/posts/19970607-gyno/" >}}
 
