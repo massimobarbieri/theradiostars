@@ -33,7 +33,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/19960000-urlo-intervista/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/19970804-mucchio-recensione-dancing/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/19970801-rumore-dancing/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -89,6 +101,12 @@
   <url>
     <loc>http://localhost:1313/discog_dev/dancing/</loc>
     <lastmod>1997-06-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/discog_dev/punto-zero/</loc>
+    <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
