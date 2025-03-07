@@ -40,15 +40,15 @@ tags: ["Album"]
 
 ## Recensioni
 
-{{< article link="/posts/19970804-mucchio-recensione-dancing/" >}}
-{{< article link="/posts/19970801-rumore-dancing/" >}}
+{{< article link="/posts/press/19970804-mucchio-recensione-dancing/" >}}
+{{< article link="/posts/press/19970801-rumore-dancing/" >}}
 
 ## Interviste
-{{< article link="/posts/19980101-mucchio-intervista/" >}}
-{{< article link="/posts/19960000-urlo-intervista/" >}}
+{{< article link="/posts/press/19980101-mucchio-intervista/" >}}
+{{< article link="/posts/press/19960000-urlo-intervista/" >}}
 
 
 ## Live
-{{< article link="/posts/19970607-gyno/" >}}
-{{< article link="/posts/19970607-articolo-live-gyno/" >}}
+{{< article link="/posts/press/19970607-gyno/" >}}
+{{< article link="/posts/press/19970607-articolo-live-gyno/" >}}
 

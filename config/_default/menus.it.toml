@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Press"
-  pageRef = "tags/Press"
+  pageRef = "/posts/press/"
   weight = 22
 
 [[main]]
