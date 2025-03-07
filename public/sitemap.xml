@@ -39,6 +39,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/19970607-articolo-live-gyno/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/19960531-dall-idiozia-al-potere/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -46,12 +52,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/19970804-mucchio-recensione-dancing/</loc>
-    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/19970607-articolo-live-gyno/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

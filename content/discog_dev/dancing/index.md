@@ -50,4 +50,5 @@ tags: ["Album"]
 
 ## Live
 {{< article link="/posts/19970607-gyno/" >}}
+{{< article link="/posts/19970607-articolo-live-gyno/" >}}
 
