@@ -33,6 +33,11 @@
   weight = 21
 
 [[main]]
+  name = "Press"
+  pageRef = "tags/Press"
+  weight = 22
+
+[[main]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/@radiostarschannel"
