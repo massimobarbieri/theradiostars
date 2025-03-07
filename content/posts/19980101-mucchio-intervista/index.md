@@ -2,7 +2,7 @@
 title: "Intervista su Mucchio Selvaggio"
 date: 2025-02-27T08:33:06+01:00
 draft: false
-tags: ['Interviste']
+tags: ['Interviste', 'Press']
 summary: "1998. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio"
 #TODO: Non sono convinto della data
 showSummary: 'true'

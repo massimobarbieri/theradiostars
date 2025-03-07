@@ -2,7 +2,7 @@
 title: "Intervista su Urlo"
 date: 2025-02-27T08:33:06+01:00
 draft: false
-tags: ['Interviste']
+tags: ['Interviste', 'Press']
 summary: "1996. Intervista a cura di Stefania Piazziani per Urlo"
 showSummary: 'true'
 showTaxonomies: 'true'

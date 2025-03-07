@@ -2,7 +2,7 @@
 title: "Recensione di Dancing su Rumore"
 date: 2025-02-27T08:33:06+01:00
 draft: false
-tags: ['Recensioni']
+tags: ['Recensioni', 'Press']
 summary: "04/08/1997. Recensione di Dancing le Cibaou-Cibaou su Rumore. A cura di Luca Frazzi."
 showSummary: 'true'
 showTaxonomies: 'true'
