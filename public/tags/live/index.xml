@@ -21,15 +21,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19970607-gyno/featured.jpg" />
     </item>
     
-    <item>
-      <title>Debutto al Covo</title>
-      <link>http://localhost:1313/posts/19940129-covo/</link>
-      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/posts/19940129-covo/</guid>
-      <description>29/01/1994. Dopo aver inciso cinque canzoni su un demo, ottenemmo il nostro primo ingaggio al Covo di Bologna, proponendoci come una band navigata nella scena musicale emiliana, ma avevamo solo una decina di brani e nessun concerto all`attivo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19940129-covo/featured.jpg" />
-    </item>
-    
   </channel>
 </rss>

@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>Debutto al Covo</title>
-      <link>http://localhost:1313/posts/19940129-covo/</link>
-      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/posts/19940129-covo/</guid>
-      <description>29/01/1994. Dopo aver inciso cinque canzoni su un demo, ottenemmo il nostro primo ingaggio al Covo di Bologna, proponendoci come una band navigata nella scena musicale emiliana, ma avevamo solo una decina di brani e nessun concerto all`attivo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19940129-covo/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Intervista su Mucchio Selvaggio</title>
       <link>http://localhost:1313/posts/19980101-mucchio-intervista/</link>
       <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
@@ -55,6 +45,16 @@
 &lt;/ol&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19960000-urlo-intervista/featured.png" />
+    </item>
+    
+    <item>
+      <title>Radiostars: dall&#39;idiozia al potere</title>
+      <link>http://localhost:1313/posts/19960531-dall-idiozia-al-potere/</link>
+      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/19960531-dall-idiozia-al-potere/</guid>
+      <description>31/05/1996. Oltre i confini della realtà del pop, del rock e del punk: gli esteti del Cibaou-Cibaou. Intervista di F.C. per Reporter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19960531-dall-idiozia-al-potere/featured.png" />
     </item>
     
     <item>
