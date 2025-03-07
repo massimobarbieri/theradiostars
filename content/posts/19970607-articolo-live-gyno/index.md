@@ -2,7 +2,7 @@
 title: "Questa sera in concerto al Gyno. Radiostars live fanno cibaou-cibaou"
 date: 2025-02-27T08:33:06+01:00
 draft: false
-tags: ['Recensioni', 'Press']
+tags: ['Press']
 summary: "14/06/1997. Questa sera in concerto al Gyno. Radiostars live fanno cibaou-cibaou. (Gazzetta di Reggio)"
 showSummary: 'true'
 showTaxonomies: 'true'
