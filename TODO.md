@@ -1,2 +1,2 @@
-- Foto del 45 giri a risoluzione migliore
-- Tracce di Bastard e Fist
+- Finire di caricare rassegna stampa
+- Come caricare i video?
