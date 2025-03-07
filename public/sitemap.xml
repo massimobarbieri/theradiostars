@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/press/19970701-ballando-le-cibaou-cibaou/</loc>
+    <loc>http://localhost:1313/press/19970701-ballando-le-cibaou-cibaou/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -21,49 +21,55 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/19940129-covo/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19980101-mucchio-intervista/</loc>
+    <loc>http://localhost:1313/press/19980101-mucchio-intervista/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19960000-urlo-intervista/</loc>
+    <loc>http://localhost:1313/press/19960000-urlo-intervista/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/</loc>
+    <loc>http://localhost:1313/press/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19970607-articolo-live-gyno/</loc>
+    <loc>http://localhost:1313/press/19970607-articolo-live-gyno/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19960531-dall-idiozia-al-potere/</loc>
+    <loc>http://localhost:1313/press/19960531-dall-idiozia-al-potere/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19970804-mucchio-recensione-dancing/</loc>
+    <loc>http://localhost:1313/press/19970804-mucchio-recensione-dancing/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/press/19970801-rumore-dancing/</loc>
+    <loc>http://localhost:1313/press/19970801-rumore-dancing/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -89,6 +95,12 @@
   <url>
     <loc>http://localhost:1313/discog_dev/vowels/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/press/20040901-if/</loc>
+    <lastmod>2004-11-01T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

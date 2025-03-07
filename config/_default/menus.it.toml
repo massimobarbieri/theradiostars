@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Press"
-  pageRef = "/posts/press/"
+  pageRef = "press"
   weight = 22
 
 [[main]]
