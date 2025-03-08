@@ -102,6 +102,16 @@
     </item>
     
     <item>
+      <title>Intervista su Mucchio Selvaggio (num. 383)</title>
+      <link>http://localhost:1313/press/2000208-mucchio/</link>
+      <pubDate>Tue, 08 Feb 2000 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/2000208-mucchio/</guid>
+      <description>Febbraio 2000. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio</description>
+      
+    </item>
+    
+    <item>
       <title>More Traditional Than You</title>
       <link>http://localhost:1313/discog_dev/mtty/</link>
       <pubDate>Fri, 07 May 1999 00:00:00 +0000</pubDate>
