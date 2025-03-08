@@ -39,3 +39,14 @@ Play on Jamendo
 
 ## Interviste
 {{< article link="/press/2000208-mucchio/" >}}
+
+## Gallery
+{{< gallery >}}
+    <img src="pag1.jpg" class="grid-w33"/>
+    <img src="pag2.jpg" class="grid-w33"/>
+    <img src="pag3.jpg" class="grid-w33"/>
+    <img src="pag4.jpg" class="grid-w33"/>
+    <img src="pag5.jpg" class="grid-w33"/>
+    <img src="pag6.jpg" class="grid-w33"/>
+    <img src="retro.jpg" class="grid-w33"/>
+{{< /gallery >}}
