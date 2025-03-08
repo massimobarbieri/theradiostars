@@ -9,7 +9,17 @@
     <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
     <webMaster>youremail@example.com (The Radiostars)</webMaster>
     <copyright>© 2025 The Radiostars</copyright>
-    <lastBuildDate>Mon, 04 Aug 1997 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/recensioni/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/recensioni/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Articolo sulla rivista &#34;IF&#34; (Novembre 2004)</title>
+      <link>http://localhost:1313/press/20040901-if/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20040901-if/</guid>
+      <description>Novembre 2004. Articolo sulla rivista IF</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20040901-if/featured.jpg" />
+    </item>
     
     <item>
       <title>Recensione di Dancing su Mucchio Selvaggio</title>
@@ -29,6 +39,16 @@
       <guid>http://localhost:1313/press/19970801-rumore-dancing/</guid>
       <description>04/08/1997. Recensione di Dancing le Cibaou-Cibaou su Rumore. A cura di Luca Frazzi.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19970801-rumore-dancing/featured.png" />
+    </item>
+    
+    <item>
+      <title>Radiostars: dall&#39;idiozia al potere</title>
+      <link>http://localhost:1313/press/19960531-dall-idiozia-al-potere/</link>
+      <pubDate>Fri, 31 May 1996 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19960531-dall-idiozia-al-potere/</guid>
+      <description>31/05/1996. Oltre i confini della realtà del pop, del rock e del punk: gli esteti del Cibaou-Cibaou. Intervista di F.C. per Reporter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19960531-dall-idiozia-al-potere/featured.png" />
     </item>
     
   </channel>

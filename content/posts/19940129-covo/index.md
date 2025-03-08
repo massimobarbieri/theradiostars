@@ -1,6 +1,7 @@
 ---
 title: "Debutto al Covo"
-date: 2025-02-27T08:33:06+01:00
+#date: 2025-02-27T08:33:06+01:00
+date: 1994-01-29
 draft: true
 tags: ['Live','Video']
 description: "Presentazione del disco Dancing le Cibaou-Cibaou al Gyno di Reggio Emilia"
