@@ -13,22 +13,22 @@
     
     <item>
       <title>Vowels poetry</title>
-      <link>http://localhost:1313/discog_dev/vowels/</link>
+      <link>http://localhost:1313/discog/vowels/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/vowels/</guid>
+      <guid>http://localhost:1313/discog/vowels/</guid>
       <description>Single - ©2008 Radiostars</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/vowels/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/vowels/featured.jpg" />
     </item>
     
     <item>
       <title>You&#39;ve got a spread</title>
-      <link>http://localhost:1313/discog_dev/45rpm/</link>
+      <link>http://localhost:1313/discog/45rpm/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/45rpm/</guid>
+      <guid>http://localhost:1313/discog/45rpm/</guid>
       <description>Single Vinyl 45 RPM - 1995 Primaveraradio</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/45rpm/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/45rpm/featured.jpg" />
     </item>
     
   </channel>

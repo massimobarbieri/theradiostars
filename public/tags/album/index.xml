@@ -13,42 +13,42 @@
     
     <item>
       <title>Endless Morning</title>
-      <link>http://localhost:1313/discog_dev/em/</link>
+      <link>http://localhost:1313/discog/em/</link>
       <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/em/</guid>
+      <guid>http://localhost:1313/discog/em/</guid>
       <description>Album - ©2008 Radiostars</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/em/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/em/featured.jpg" />
     </item>
     
     <item>
       <title>For What Might Have Been</title>
-      <link>http://localhost:1313/discog_dev/fwmhb/</link>
+      <link>http://localhost:1313/discog/fwmhb/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/fwmhb/</guid>
+      <guid>http://localhost:1313/discog/fwmhb/</guid>
       <description>Album - ©2003 Radiostars</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/fwmhb/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/fwmhb/featured.jpg" />
     </item>
     
     <item>
       <title>More Traditional Than You</title>
-      <link>http://localhost:1313/discog_dev/mtty/</link>
+      <link>http://localhost:1313/discog/mtty/</link>
       <pubDate>Fri, 07 May 1999 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/mtty/</guid>
+      <guid>http://localhost:1313/discog/mtty/</guid>
       <description>Album - ©1999 Radiostars</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/mtty/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/mtty/featured.jpg" />
     </item>
     
     <item>
       <title>Danging le Cibaou-Cibaou</title>
-      <link>http://localhost:1313/discog_dev/dancing/</link>
+      <link>http://localhost:1313/discog/dancing/</link>
       <pubDate>Sat, 07 Jun 1997 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/discog_dev/dancing/</guid>
+      <guid>http://localhost:1313/discog/dancing/</guid>
       <description>Album - ©1997 Radiostars</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog_dev/dancing/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/dancing/featured.jpg" />
     </item>
     
   </channel>

@@ -24,7 +24,7 @@
 
 [[main]]
   name = "Music"
-  pageRef = "discog_dev"
+  pageRef = "discog"
   weight = 20
 
 [[main]]

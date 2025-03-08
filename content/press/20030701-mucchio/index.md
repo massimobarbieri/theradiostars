@@ -13,8 +13,6 @@ showTaxonomies: 'true'
 
 {{< icon "circle-info" >}}Articolo di Aurelio Pasini
 
-Incontri
-
 Lontani anni luce da presunte scene e correnti musicali i Radiostars ci propongono già da qualche anno una personalissima e atemporale rilettura del rock'n’roll più tradizionale, riuscendo a reinterpretare in chiave personale sonorità classiche senza mai correre il rischio di (s)cadere nel rétro e, anzi, risultando freschissimi.
 Se già le precedenti prove del trio reggiano, “Dancing Le Cibaou-Cibaou” (1997) e “More Traditional Than You” (1999) ci avevano convinto, “For What Might Have Been”
 (n. 525) ci mostra una band al massimo della forma, capace di scrivere canzoni semplici ma di grande effetto, ascoltando le quali è impossibile restare fermi. Questa la sintesi di una divertente chiacchierata con il gruppo al gran completo.
