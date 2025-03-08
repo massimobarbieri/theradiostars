@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/press/20040901-if/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/press/19970701-ballando-le-cibaou-cibaou/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,6 +34,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-27T08:33:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/press/20030701-mucchio/</loc>
     <lastmod>2025-02-27T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -95,12 +107,6 @@
   <url>
     <loc>http://localhost:1313/discog_dev/vowels/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/press/20040901-if/</loc>
-    <lastmod>2004-11-01T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

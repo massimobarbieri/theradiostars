@@ -12,6 +12,26 @@
     <lastBuildDate>Thu, 27 Feb 2025 08:33:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/interviste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Articolo sulla rivista &#34;IF&#34; (Novembre 2004)</title>
+      <link>http://localhost:1313/press/20040901-if/</link>
+      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20040901-if/</guid>
+      <description>Novembre 2004. Articolo sulla rivista IF</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20040901-if/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Intervista su Mucchio Selvaggio (num 540)</title>
+      <link>http://localhost:1313/press/20030701-mucchio/</link>
+      <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20030701-mucchio/</guid>
+      <description>Luglio 2003. Intervista du Mucchio Selvaggio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20030701-mucchio/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Intervista su Mucchio Selvaggio (num. 288)</title>
       <link>http://localhost:1313/press/19980101-mucchio-intervista/</link>
       <pubDate>Thu, 27 Feb 2025 08:33:06 +0100</pubDate>
@@ -32,16 +52,6 @@
 &lt;/ol&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19960000-urlo-intervista/featured.png" />
-    </item>
-    
-    <item>
-      <title>Articolo sulla rivista &#34;IF&#34; (Novembre 2004)</title>
-      <link>http://localhost:1313/press/20040901-if/</link>
-      <pubDate>Mon, 01 Nov 2004 08:33:06 +0100</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/press/20040901-if/</guid>
-      <description>Novembre 2004. Articolo sulla rivista IF</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20040901-if/featured.jpg" />
     </item>
     
   </channel>

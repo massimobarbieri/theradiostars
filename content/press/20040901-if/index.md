@@ -1,6 +1,6 @@
 ---
 title: "Articolo sulla rivista \"IF\" (Novembre 2004)"
-date: 2004-11-01T08:33:06+01:00
+date: 2025-02-27T08:33:06+01:00
 draft: false
 tags: ['Interviste', 'Press']
 summary: "Novembre 2004. Articolo sulla rivista IF"
