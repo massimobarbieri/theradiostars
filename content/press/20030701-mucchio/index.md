@@ -1,6 +1,7 @@
 ---
 title: "Intervista su Mucchio Selvaggio (num 540)"
-date: 2025-02-27T08:33:06+01:00
+#date: 2025-02-27T08:33:06+01:00
+date: 2003-07-01
 draft: false
 tags: ['Interviste', 'Press']
 summary: "Luglio 2003. Intervista du Mucchio Selvaggio"

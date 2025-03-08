@@ -1,6 +1,7 @@
 ---
 title: "Intervista su Mucchio Selvaggio (num. 288)"
-date: 2025-02-27T08:33:06+01:00
+#date: 2025-02-27T08:33:06+01:00
+date: 1998-01-01
 draft: false
 tags: ['Interviste', 'Press']
 summary: "Gennaio 1998. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio"

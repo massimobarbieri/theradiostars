@@ -1,6 +1,7 @@
 ---
 title: "Ballando Le Cibaou-Cibaou con i RADIOSTARS"
-date: 2025-02-27T08:33:06+01:00
+#date: 2025-02-27T08:33:06+01:00
+date: 1997-07-01
 draft: false
 tags: ['Press']
 summary: "01/07/1997. Articolo di Emanuele Franzoia il periodico Scandiano Giovani uscito nel mese di luglio 1997."
