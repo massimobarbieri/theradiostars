@@ -40,4 +40,5 @@ Play on Jamendo
 {{< gallery >}}
     <img src="back.jpg" class="grid-w33"/>
     <img src="credits.jpg" class="grid-w33"/>
+    <img src="centerfold.jpg" class="grid-w33"/>
 {{< /gallery >}}
