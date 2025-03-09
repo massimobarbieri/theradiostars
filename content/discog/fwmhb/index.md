@@ -35,3 +35,9 @@ Play on Jamendo
 
 ## Interviste
 {{< article link="/press/20030701-mucchio/" >}}
+
+## Gallery
+{{< gallery >}}
+    <img src="back.jpg" class="grid-w33"/>
+    <img src="credits.jpg" class="grid-w33"/>
+{{< /gallery >}}
