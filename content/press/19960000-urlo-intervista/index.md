@@ -18,8 +18,7 @@ showTaxonomies: 'true'
 La prima volta che incontrai i Radiostars fu al concerto degli americani Brutal Juice è Reggio Emilia.
 Loro facevano da spalla ai ragazzi texani. I Radiostars apparvero di colpo sul palco che nel frattempo si era fatto buio come tutto il locale eccetto una potentissima luce strobo puntata verso il pubblico. Senza avere il tempo di pensare fui travolta dalla prima canzone, ebbi paura. Il cantante cantava e suonava la chitarra come uno spastico in fiamme, pensai il giorno dopo, pressapoco ciò che facevano gli altri due. Il volume era incredibile, i texani erano impazziti, non credevano a ciò che sentivano e vedevano. Fu il concerto più divertente e incredibile che abbia mai visto, così pensai che sarebbe stato grande poter fare due chiacchiere con loro per lo spazio musica del giornalino della Scuola. Il giorno seguente telefonai e presi subito accordi per una intervista. L'appuntamento fu fissato presso lo studio dove i Radiostars fanno le prove, mi fu detto di salire all'ufficio generale al terzo piano, qui mi dissero che i ragazzi mi stavano aspettando nella sala del grande schermo, andai e bussai alla porta scorrevole ed entrai.
 
-Considerando la dinamite che avevano addosso la sera in cui li vidi ero pronta ad intervistare i Sex
-Pistols, coloro che invece mi trovai davanti, una volta entrata, erano tre simpatici ragazzi dall'aspetto tutt'altro che punk. Quella che vi riporto è la conversazione che avvenne tra me ed i Radiostars pochi giorni dopo il concerto.
+Considerando la dinamite che avevano addosso la sera in cui li vidi ero pronta ad intervistare i Sex Pistols, coloro che invece mi trovai davanti, una volta entrata, erano tre simpatici ragazzi dall'aspetto tutt'altro che punk. Quella che vi riporto è la conversazione che avvenne tra me ed i Radiostars pochi giorni dopo il concerto.
 
 **Stefania**: "Ascoltando la vostra musica non sono riuscita ad inquadrare il vostro genere
 musicale. Come vi definireste? e quali sono le vostre principali fonti di ispirazione?"
@@ -34,8 +33,7 @@ musicale. Come vi definireste? e quali sono le vostre principali fonti di ispira
 
 **Stefania**: "Ma insomma... quali sono le vostre fonti di ispirazione?"
 
-**Dadda**: "Non ascoltiamo nessun tipo di musica, quella poca che abbiamo sentito ci fa schifo, soprat
-tutto i gruppi italiani."
+**Dadda**: "Non ascoltiamo nessun tipo di musica, quella poca che abbiamo sentito ci fa schifo, soprattutto i gruppi italiani."
 
 **Stefania**: "Per questo utilizzate per i vostri testi la lingua inglese?"
 
