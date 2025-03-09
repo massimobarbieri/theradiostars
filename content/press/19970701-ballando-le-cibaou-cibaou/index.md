@@ -11,7 +11,7 @@ showTaxonomies: 'true'
 ---
 ![Articolo](featured.png)
 
-{{< icon "circle-info" >}}Articolo di Emanuele Franzoia il periodico "Scandiano Giovani" uscito nel mese di lugio 1997
+{{< icon "circle-info" >}}Articolo di Emanuele Franzoia il periodico "Scandiano Giovani" uscito nel mese di luglio 1997
 
 Dalla ricca faretra musicale reggiana sta per partire un’altra freccia che, visti i primi riconoscimenti, promette di centrare il bersaglio. Stiamo parlando dello scatenato trio scandinase “Radiostars”, composto da Massimo Barbieri (Max) voce e chitarra elettrica, Davide Gambarelli (Dadda) al basso e Cesare Anceschi (Cico) alla batteria. Dopo due lusinghieri secondi posti ai concorsi 'Terremoto Rock' e 'Rock Revolution Contest' ed apparizioni passate per nulla inosservate su alcune compilation a fianco di altre band emergenti, finalmente a Giugno uscirà il loro primo CD, “Dancing le Cibaou-Cibaou”.
 

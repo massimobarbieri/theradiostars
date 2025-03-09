@@ -17,10 +17,7 @@ Inventori del *cibaou cibaou* - questa la singolare definizione con cui Cico, Ma
 
 **Per chi ancora non vi conosce, qual è la storia dei Radiostars?**
 
-Abbiamo iniziato a suonare assieme nel ‘94 con l'intenzione di comporre da subito brani nostri. Poi sono arrivati i primi concerti, alcuni concorsi e le esibizioni di supporto agli Statuto e ai texani Brutal Juice. Nel frattempo, il nostro demo *Very Clean* è giunto nelle redazioni di diversi giornali,
-fanzine ed etichette discografiche. I riscontri sono stati senza dubbio positivi perché nel ‘95 la Blu Bus di Aosta ha inserito la nostra “Let's Go" nella compilation "We Bastard Motherfuckers". L'anno successivo la rivista “Urlo" ha allegato al numero 15 un 45 giri con due nostri brani e sempre
-nel ‘96 abbiamo partecipato con “Bang” alla raccolta “Punto Zero" prodotta dalla Toast di Torino, Il nostro primo CD *Dancing Le Cibaou Cibaou* è uscito invece per
-Asbury Park alcuni mesi fa.
+Abbiamo iniziato a suonare assieme nel ‘94 con l'intenzione di comporre da subito brani nostri. Poi sono arrivati i primi concerti, alcuni concorsi e le esibizioni di supporto agli Statuto e ai texani Brutal Juice. Nel frattempo, il nostro demo *Very Clean* è giunto nelle redazioni di diversi giornali, fanzine ed etichette discografiche. I riscontri sono stati senza dubbio positivi perché nel ‘95 la Blu Bus di Aosta ha inserito la nostra “Let's Go" nella compilation "We Bastard Motherfuckers". L'anno successivo la rivista “Urlo" ha allegato al numero 15 un 45 giri con due nostri brani e sempre nel ‘96 abbiamo partecipato con “Bang” alla raccolta “Punto Zero" prodotta dalla Toast di Torino, Il nostro primo CD *Dancing Le Cibaou Cibaou* è uscito invece per Asbury Park alcuni mesi fa.
 
 **Sono stati loro a mettersi sulle vostre tracce?**
 
@@ -28,8 +25,7 @@ Asbury Park è un negozio di dischi nonché etichetta discografica delle nostre 
 
 **Definite ll vostro sound “cibaou cibaou”, ma non vi nascondo di avervi trovato uno spirito garage-blues analogo a quello di Jon Spencer e spunti wave alla Devo, Television e Talking Heads. Questi gruppi vi hanno in qualche modo influenzato?**
 
-Forse neanche tanto. A dir la verità ascoltiamo gruppi molto diversi dal genere che suoniamo, come per
-esempio Pet Shop Boys e Depeche Mode. Comunque è vero che spesso siamo paragonati ai Devo, ai Voidoids, alla scena punk del ‘77, e tantissimi ci dicono che somigliamo a Jon Spencer, ma lo conosciamo davvero molto poco.
+Forse neanche tanto. A dir la verità ascoltiamo gruppi molto diversi dal genere che suoniamo, come per esempio Pet Shop Boys e Depeche Mode. Comunque è vero che spesso siamo paragonati ai Devo, ai Voidoids, alla scena punk del ‘77, e tantissimi ci dicono che somigliamo a Jon Spencer, ma lo conosciamo davvero molto poco.
 
 **Comunque il vostro approccio alla materia rock'n'roll è davvero singolare, perchè fate funzionare in modo spregiudicato quello che gli altri scartano!**
 
@@ -46,13 +42,11 @@ No, noi non abbiamo sborsato una lira, se non per comprare le bacchette della ba
 **Avete suonato a Reggio Emilia prima degli U2 insieme a Prozac + e Casino Royale. È successo quasi per caso, vero?**
 
 Sì, è stato bellissimo. Qualcuno ci diceva, "bene, farete da supporto agli U2”, ma noi
-non ne sapevamo praticamente niente. Poi il giorno prima mi hanno chiamato dall'organizzazione chiedendomi se eravamo disponibili. Tutto è accaduto nel giro di ventiquattrore. Poi sono arrivati i giornalisti, le interviste... ma è incredibile, perché noinon abbiamo fatto nulla!
+non ne sapevamo praticamente niente. Poi il giorno prima mi hanno chiamato dall'organizzazione chiedendomi se eravamo disponibili. Tutto è accaduto nel giro di ventiquattrore. Poi sono arrivati i giornalisti, le interviste... ma è incredibile, perché noi non abbiamo fatto nulla!
 
 **Sul palco cosa avete provato?**
 
-Quando ti trovi davanti una folla immensa hai anche un po' paura, pensi di essere fischiato perché tutti vogliono vedere l'attrazione principale. Invece è andata benissimo: abbiamo suonato mezz'ora, il
-pubblico ci ha apprezzati, tecnicamente tutto funzionava a meraviglia. Certo per un po' vivi una situazione inverosimile, alla fine dei pezzi non senti quegli applausi sparsi come succede davanti a
-duecento persone ma sei coinvolto in un boato continuo. Sì, dopo gli U2 siamo diventati famosissimi. Ora la gente ci chiede gli autografi!
+Quando ti trovi davanti una folla immensa hai anche un po' paura, pensi di essere fischiato perché tutti vogliono vedere l'attrazione principale. Invece è andata benissimo: abbiamo suonato mezz'ora, il pubblico ci ha apprezzati, tecnicamente tutto funzionava a meraviglia. Certo per un po' vivi una situazione inverosimile, alla fine dei pezzi non senti quegli applausi sparsi come succede davanti a duecento persone ma sei coinvolto in un boato continuo. Sì, dopo gli U2 siamo diventati famosissimi. Ora la gente ci chiede gli autografi!
 
 **Quella serata vi ha aperto nuove porte?**
 
