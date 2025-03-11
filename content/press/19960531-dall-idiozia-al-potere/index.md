@@ -2,6 +2,7 @@
 title: "Radiostars: dall'idiozia al potere"
 #date: 2025-02-27T08:33:06+01:00
 date: 1996-05-31
+showDate: true
 draft: false
 tags: ['Recensioni','Press']
 summary: "31/05/1996. Oltre i confini della realtà del pop, del rock e del punk: gli esteti del Cibaou-Cibaou. Intervista di F.C. per Reporter."
