@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dadda on The Radiostars</title>
+    <link>http://localhost:1313/authors/dadda/</link>
+    <description>Recent content in Dadda on The Radiostars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
+    <webMaster>youremail@example.com (The Radiostars)</webMaster>
+    <copyright>© 2025 The Radiostars</copyright>
+    <lastBuildDate>Sat, 07 Jun 1997 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/dadda/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dancing at the Gyno</title>
+      <link>http://localhost:1313/posts/19970607-gyno/</link>
+      <pubDate>Sat, 07 Jun 1997 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/19970607-gyno/</guid>
+      <description>07/06/1997. In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/19970607-gyno/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

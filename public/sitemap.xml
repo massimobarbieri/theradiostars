@@ -51,6 +51,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/press/20030316-gazzetta/</loc>
+    <lastmod>2003-03-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/fwmhb/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -136,7 +148,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/press/19960531-dall-idiozia-al-potere/</loc>
-    <lastmod>1996-05-31T00:00:00+00:00</lastmod>
+    <lastmod>1996-05-31T08:33:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -170,4 +182,13 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
+<<<<<<< HEAD
+=======
+  <url>
+    <loc>http://localhost:1313/press/000-template-press/</loc>
+    <lastmod>1994-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+>>>>>>> dev
 </urlset>
