@@ -1,7 +1,7 @@
 ---
 title: "Radiostars: dall'idiozia al potere"
 #date: 2025-02-27T08:33:06+01:00
-date: 1996-05-31
+date: 1996-05-31T08:33:06+01:00
 showDate: true
 draft: false
 tags: ['Recensioni','Press']
