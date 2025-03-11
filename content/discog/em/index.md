@@ -35,13 +35,13 @@ Play on Jamendo
 | #     | Lista delle tracce                    |               |
 | :---: | :---                                  | :---          |
 | 1     | Radiostar                             |               |
-| 2     | Will, Frankl and the Truth            |               |
+| 2     | Will, Frankl and the truth            |               |
 | 3     | Vowels Poetry                         |               |
 | 4     | The Party                             |               |
 | 5     | Oda a Walt Disney                     |               |
-| 6     | Nothing is possible                   |               |
-| 7     | Railway girls                         |               |
-| 8     | She sings my favourite songs          |               |
+| 6     | Nothing is Possible                   |               |
+| 7     | Railway Girls                         |               |
+| 8     | She Sings my Favourite Songs          |               |
 | 9     | Mirror Moon of Mirror Sun             |               |
 | 10    | My Garden                             |               |
 
