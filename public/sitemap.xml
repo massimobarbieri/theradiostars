@@ -51,6 +51,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/fwmhb/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -161,6 +167,12 @@
   <url>
     <loc>http://localhost:1313/discog/45rpm/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/19940129-covo/</loc>
+    <lastmod>1994-01-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
