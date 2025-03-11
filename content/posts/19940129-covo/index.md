@@ -2,7 +2,7 @@
 title: "Debutto al Covo"
 #date: 2025-02-27T08:33:06+01:00
 date: 1994-01-29
-draft: true
+draft: false
 tags: ['Live','Video']
 description: "Presentazione del disco Dancing le Cibaou-Cibaou al Gyno di Reggio Emilia"
 summary: "29/01/1994. Dopo aver inciso cinque canzoni su un demo, ottenemmo il nostro primo ingaggio al Covo di Bologna, proponendoci come una band navigata nella scena musicale emiliana, ma avevamo solo una decina di brani e nessun concerto all`attivo."
