@@ -13,7 +13,7 @@ tags: ['Compilation']
     src="featured.jpg"
     alt="Album cover"
     nozoom="true"
-    >}}
+ >}}
 
 {{< icon "circle-info" >}}Compilation - Shut Eye Records USA 2001
 
