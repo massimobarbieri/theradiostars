@@ -1,2 +1,3 @@
 - Finire di caricare rassegna stampa
 - Come caricare i video?
+- Nell'articolo dall'idiozia al potere ho fatto visualizzare la data, però la data che visualizza è sbagliata!
