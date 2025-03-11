@@ -22,7 +22,7 @@ Si può dire, quindi, che nell’underground musicale reggiano ci fosse grande a
 
 Presentammo il nuovo disco al Gyno, una piccola birreria di Reggio Emilia con un’unica sala arredata da un bancone, qualche tavolo e un grande palco, dove si esibivano, una o due sere a settimana, band rock reggiane, italiane e straniere. Quella sera, il parcheggio antistante il locale era così pieno di auto che dovemmo trovare posto altrove, mentre all’interno il Gyno era stipato di gente ben oltre le nostre aspettative.
 
-Fu probabilmente uno dei nostri migliori concerti. Il pubblico rispose alla grande: i nostri fedelissimi punk non solo pogavano sotto il palco, ma spesso anche sopra. A un certo punto, Frank, il nostro fidato roadie, fu costretto a piazzarsi sul palco per contenere le invasioni (vedi foto seguente).
+Fu probabilmente uno dei nostri migliori concerti. Il pubblico rispose alla grande: i nostri fedelissimi punk non solo pogarono sotto il palco, ma spesso anche sopra. Frank, il nostro fidato roadie, fu costretto a piazzarsi sul palco per contenere le invasioni (vedi foto seguente).
 ![Presentazione di Dancing al Gyno](/img/gyno/gyno3.jpg)
 
 Quella sera, le vendite di Dancing le Cibaou-Cibaou, pur notevoli, non fecero schizzare le nostre finanze, ma permisero di coprire buona parte degli investimenti della piccola etichetta che aveva prodotto il nostro primo disco: la Asbury Park Records. Il live al Gyno e il successo del disco contribuirono a farci conoscere sempre di più nell’ambiente musicale reggiano, ma soprattutto ci portarono in uno stato di esaltazione emotiva che divenne la scintilla per scrivere nuove canzoni.
