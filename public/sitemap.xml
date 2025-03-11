@@ -63,6 +63,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/000-template-press/</loc>
+    <lastmod>2003-03-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/fwmhb/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
