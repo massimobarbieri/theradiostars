@@ -1,0 +1,30 @@
+nel branch dev_dadda ho creato una pagina "Discografia Dev" 
+seguendo un how to visto da youtube.
+Sotto discog_dev ho creato la pagina "_index.md"
+Questo indica al tema che la pagina e' una lista quindi le sottocartelle diventano automaticamente
+link della stessa. (e viene messa in automatico l'immagine della sottocartella con il nome fratured.jpg)
+Se invece viene creata la pagina "index.md" questa viene considerata una "semplice" pagina html.
+Nelle sottocartelle crei index.md con la pagina e featured.jpg che diventa anche in automatico anche
+il background.
+la data nelle pagine determina l'ordinamento nella pagina discog_dev
+Ho variato anche i toml sotto config perche' subito non funzionava nulla, ma poi, dopo varie prove e modifiche,
+ha funzionato.
+
+NOTE 
+1 - Cambiamo la foto del background? a me non piace molto.
+    Ho messo una foto del concerto fatto al bike hospital e per me e' gia meglio
+2 - Il logo nella home page mi sembra piccolo e ripetuto con quello in alto a sinistra.
+    Non ho capito come farlo diventare piu' grande. (o lo eliminiamo ???)
+(MAX): Sarebbe bello eliminarlo nella homepage dove è sostituito dal logo grande centrale e averlo in alto a sx solo nelle sottopagine.
+  
+3 - ho cambiato il colorsheme perche le icone blu sparavano troppo per me.
+
+
+
+# Embeddare un player audio ###
+###############################
++ Non ho trovato il modo di embeddare Jamendo
++ Ho trovato questo shortcode che permette di embeddare un album caricato su spotify
+  https://gist.github.com/j-un/e7d0b3118556479392bd2269f7059242
+  L'ho testato ma il Privacy Badger di Firefox lo blocca perché è un iframe (poi puoi autorizzarlo e funziona)
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviste on The Radiostars</title>
+    <link>http://localhost:1313/tags/interviste/</link>
+    <description>Recent content in Interviste on The Radiostars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
+    <webMaster>youremail@example.com (The Radiostars)</webMaster>
+    <copyright>© 2025 The Radiostars</copyright>
+    <lastBuildDate>Tue, 01 Jul 2003 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/interviste/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intervista su Mucchio Selvaggio (num 540)</title>
+      <link>http://localhost:1313/press/20030701-mucchio/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20030701-mucchio/</guid>
+      <description>Luglio 2003. Intervista du Mucchio Selvaggio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20030701-mucchio/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Intervista Gazzetta di Reggio 2001</title>
+      <link>http://localhost:1313/press/2001-intervista-gazzetta/</link>
+      <pubDate>Tue, 08 Feb 2000 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/2001-intervista-gazzetta/</guid>
+      <description>Il nuovo CD dei Radiostars va a ruba in America. Il singolo degli scandianesi fa furore negli States. In due settimane esaurite quindicimila copie.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/2001-intervista-gazzetta/featured.png" />
+    </item>
+    
+    <item>
+      <title>Intervista su Mucchio Selvaggio (num. 383)</title>
+      <link>http://localhost:1313/press/2000208-mucchio/</link>
+      <pubDate>Tue, 08 Feb 2000 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/2000208-mucchio/</guid>
+      <description>Febbraio 2000. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/2000208-mucchio/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Intervista su Mucchio Selvaggio (num. 288)</title>
+      <link>http://localhost:1313/press/19980101-mucchio-intervista/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19980101-mucchio-intervista/</guid>
+      <description>Gennaio 1998. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19980101-mucchio-intervista/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Intervista su Urlo</title>
+      <link>http://localhost:1313/press/19960000-urlo-intervista/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19960000-urlo-intervista/</guid>
+      <description>&lt;ol start=&#34;1996&#34;&gt;
+&lt;li&gt;Intervista a cura di Stefania Piazziani per Urlo&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19960000-urlo-intervista/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
