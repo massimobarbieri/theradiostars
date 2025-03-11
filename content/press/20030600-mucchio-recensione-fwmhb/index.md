@@ -1,9 +1,9 @@
 ---
 title: "Recensione di For What Might Have Been su Mucchio Selvaggio (num 525)"
 #date: 2025-02-27T08:33:06+01:00
-date: 2003-07-01
+date: 2003-06-01
 draft: false
-tags: ['Interviste', 'Press']
+tags: ['Recensione', 'Press']
 summary: "2003. Recensione di For What Might Have Been su Mucchio Selvaggio"
 showSummary: 'true'
 showTaxonomies: 'true'
@@ -13,8 +13,9 @@ showTaxonomies: 'true'
 
 {{< icon "circle-info" >}}Recensione di Aurelio Pasini per Mucchio Selvaggio num. 525
 
-##THE RADIOSTARS - FOR WHAT MIGHT HAVE BEEN
-*Kymotio/Self*
+**THE RADIOSTARS - FOR WHAT MIGHT HAVE BEEN**
+
+*Kymotto/Self*
 
 La fretta può essere cattiva consigliera, lezione che i Radiostars dimostrano di conoscere alla perfezione. Se infatti avevano fatto passare due anni abbondanti fra il promettente esordio *Dancing Le Cibaou-Cibaou (Asbury Park)* e il successivo *More Traditional Than You (Freebird/
 Vurt)*, fra quello e *For What Might Have Been* il calendario è stato cambiato ben quattro volte. Segno che al trio di Scandiano - qualcuno lo ricorderà di spalla agli U2 a Reggio Emilia nel 1997 - piace fare le cose per bene e con la dovuta calma, atteggiamento lodevole quanto sempre più raro anche nell'ambito ristretto dell'underground tricolore.
