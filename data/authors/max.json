@@ -1,0 +1,9 @@
+{
+    "name": "Max",
+    "image" : "img/max.png",
+    "bio": "Member of The Radiostars",
+    "social": [
+        { "instagram": "https://www.instagram.com/maxgeocaching" },
+        { "github": "https://github.com/massimobarbieri" }
+    ]
+}

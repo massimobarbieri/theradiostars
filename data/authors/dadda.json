@@ -1,0 +1,9 @@
+{
+    "name": "Dadda",
+    "image" : "img/dadda.png",
+    "bio": "Member of The Radiostars",
+    "social": [
+        { "instagram": "https://instagram.com" },
+        { "github": "https://github.com" }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cico",
+    "image" : "img/cico.png",
+    "bio": "Member of The Radiostars",
+    "social": [
+        { "instagram": "https://instagram.com" }
+    ]
+}
