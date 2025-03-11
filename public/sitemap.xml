@@ -52,7 +52,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/press/20030316-gazzetta/</loc>
+    <lastmod>2003-03-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

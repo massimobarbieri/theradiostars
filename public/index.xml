@@ -64,7 +64,7 @@
     <item>
       <title>Recensione di For What Might Have Been su Mucchio Selvaggio (num 525)</title>
       <link>http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/</guid>
       <description>&lt;ol start=&#34;2003&#34;&gt;
@@ -72,6 +72,19 @@
 &lt;/ol&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20030600-mucchio-recensione-fwmhb/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>I mitici Radiostars tornano a casa - Gazzetta di Reggio (2003)</title>
+      <link>http://localhost:1313/press/20030316-gazzetta/</link>
+      <pubDate>Sun, 16 Mar 2003 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20030316-gazzetta/</guid>
+      <description>&lt;ol start=&#34;2003&#34;&gt;
+&lt;li&gt;Oggi concerto a Scandiano, paese d&amp;rsquo;origine, dopo i successi Americani&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20030316-gazzetta/featured.png" />
     </item>
     
     <item>
