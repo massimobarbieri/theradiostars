@@ -18,24 +18,24 @@
   weight = 9
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
   name = "Music"
   pageRef = "discog"
   weight = 20
 
-[[main]]
-  name = "Album"
-  pageRef = "tags/Album"
-  weight = 21
+#[[main]]
+#  name = "Album"
+#  pageRef = "tags/Album"
+#  weight = 21
 
 [[main]]
   name = "Press"
   pageRef = "press"
   weight = 22
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 30
 
 [[main]]
   identifier = "youtube"
