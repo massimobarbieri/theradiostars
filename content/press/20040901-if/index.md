@@ -2,6 +2,7 @@
 title: "Articolo sulla rivista \"IF\" (Novembre 2004)"
 #date: 2025-02-27T08:33:06+01:00
 date: 2004-09-01
+showDate: true
 draft: false
 tags: ['Recensioni', 'Press']
 summary: "Novembre 2004. Articolo sulla rivista IF"

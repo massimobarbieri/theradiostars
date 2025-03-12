@@ -2,6 +2,7 @@
 title: "Articolo Gazzetta di Reggio - semifinale terremoto rock"
 #date: 2025-02-27T08:33:06+01:00
 date: 1994-06-16
+showDate: true
 draft: false
 tags: ['Recensioni', 'Press']
 summary: "Giugno 1994 - Articolo sulla Gazzetta di Reggio"

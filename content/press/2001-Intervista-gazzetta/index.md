@@ -2,6 +2,7 @@
 title: "Intervista Gazzetta di Reggio 2001"
 #date: 2025-02-27T08:33:06+01:00
 date: 2000-02-08
+showDate: true
 draft: false
 tags: ['Interviste', 'Press']
 summary: "Il nuovo CD dei Radiostars va a ruba in America. Il singolo degli scandianesi fa furore negli States. In due settimane esaurite quindicimila copie."

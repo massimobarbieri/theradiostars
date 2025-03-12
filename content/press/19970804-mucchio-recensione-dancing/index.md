@@ -2,6 +2,7 @@
 title: "Recensione di Dancing su Mucchio Selvaggio"
 #date: 2025-02-27T08:33:06+01:00
 date: 1997-08-04
+showDate: true
 draft: false
 tags: ['Recensioni', 'Press']
 summary: "04/08/1997. Recensione di Dancing le Cibaou-Cibaou su Mucchio Selvaggio. A cura di Gianluca Picardi."

@@ -2,6 +2,7 @@
 title: "Intervista su Mucchio Selvaggio (num. 383)"
 #date: 2025-02-27T08:33:06+01:00
 date: 2000-02-08
+showDate: true
 draft: false
 tags: ['Interviste', 'Press']
 summary: "Febbraio 2000. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio"
