@@ -69,6 +69,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2002-09-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/20020912-live-liga/</loc>
+    <lastmod>2002-09-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/press/20020903-reporter/</loc>
     <lastmod>2002-09-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -131,12 +143,6 @@
   <url>
     <loc>http://localhost:1313/press/19970701-ballando-le-cibaou-cibaou/</loc>
     <lastmod>1997-07-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>1997-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

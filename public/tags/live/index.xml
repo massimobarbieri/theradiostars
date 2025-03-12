@@ -9,7 +9,17 @@
     <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
     <webMaster>youremail@example.com (The Radiostars)</webMaster>
     <copyright>© 2025 The Radiostars</copyright>
-    <lastBuildDate>Sat, 07 Jun 1997 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2002 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Davanti a migliaia di persone</title>
+      <link>http://localhost:1313/posts/20020912-live-liga/</link>
+      <pubDate>Thu, 12 Sep 2002 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/20020912-live-liga/</guid>
+      <description>12/09/2002. Concerto in apertura a Ligabue.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20020912-live-liga/feature.png" />
+    </item>
     
     <item>
       <title>Dancing at the Gyno</title>
