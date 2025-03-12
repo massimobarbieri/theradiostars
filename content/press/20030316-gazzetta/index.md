@@ -4,7 +4,7 @@ title: "I mitici Radiostars tornano a casa - Gazzetta di Reggio (2003)"
 date: 2003-03-16
 draft: false
 tags: ['Press']
-summary: "2003. Oggi concerto a Scandiano, paese d'origine, dopo i successi Americani"
+summary: "2003. Oggi concerto a Scandiano, paese d`origine, dopo i successi Americani"
 showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
