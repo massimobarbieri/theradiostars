@@ -23,7 +23,7 @@ Con poche sessioni in sala prove, fummo pronti per registrare il nostro primo de
 
 A quei tempi, un demo era indispensabile per iniziare: la chiave per aprire le porte dei locali, l'ascensore per salire sul palco. Ci prendete a suonare? Avete un demo? No. Fatemi avere un demo e vedo se posso fissarvi una serata. Niente demo, niente concerto. Ora il demo lo avevamo, con una copertina a colori fiammanti, fotocopiata alla Red di Scandiano: il Chrysler Building preso da un libro e fotocopiato con i colori invertiti, il massimo della tecnologia! I titoli erano realizzati con un quaderno di lettere ritagliate, incollate e poi fotocopiate.
 
-Portammo il demo a Scanna, il selezionatore musicale del Covo di Bologna. Musicista anche lui, un uomo che – come disse lui stesso – aveva un orologio fermo al 1962. Concerto fissato: sabato 29 gennaio 1994 dopo un gruppo bolognese. Dovevamo suonare un'ora ma avevamo solo 5 pezzi. Mai suonato dal vivo con i Radiostars. Mai cantato dal vivo in vita mia.
+Portammo il demo a Scanna, il selezionatore musicale del [Covo di Bologna](https://covoclub.it). Musicista anche lui, un uomo che – come disse lui stesso – aveva l'orologio fermo al 1962. Concerto fissato: sabato 29 gennaio 1994 dopo un gruppo bolognese. Dovevamo suonare un'ora ma avevamo solo 5 pezzi. Mai suonato dal vivo con i Radiostars. Mai cantato dal vivo in vita mia.
 
 Prima di noi si esibì la band bolognese composta da cinque e un seguito enorme di amici, parenti e fidanzate. Durante il cambio palco, il loro pubblico in buona parte si dileguò.
 
