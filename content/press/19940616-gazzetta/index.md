@@ -1,7 +1,7 @@
 ---
 title: "Articolo Gazzetta di Reggio - semifinale terremoto rock"
 #date: 2025-02-27T08:33:06+01:00
-date: 1994-06-16
+date: 1994-06-18
 showDate: true
 draft: false
 tags: ['Recensioni', 'Press']
@@ -12,7 +12,7 @@ showTaxonomies: 'true'
 ---
 ![Articolo P1](featured.jpg)
 
-{{< icon "circle-info" >}}Articolo di Marco Macchi
+{{< icon "circle-info" >}}Articolo di Marco Macchi relativo alla semifinale del concorso Terremoto Rock del 16/06/1994
 
 **E con i Radiostars il Terremoto ha una bella scossa**
 
