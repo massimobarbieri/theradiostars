@@ -87,6 +87,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20000117-mucchio-mtty/</loc>
+    <lastmod>2000-01-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/mtty/</loc>
     <lastmod>1999-05-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
