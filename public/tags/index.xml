@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/tags/video/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Compilation</title>
       <link>http://localhost:1313/tags/compilation/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -87,16 +97,6 @@
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
       <author>youremail@example.com (The Radiostars)</author>
       <guid>http://localhost:1313/tags/recensione/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>http://localhost:1313/tags/video/</link>
-      <pubDate>Sat, 29 Jan 1994 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
       
     </item>

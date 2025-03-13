@@ -36,7 +36,7 @@ Di questo abbiamo parlato con Cico, il batterista del trio.
 
 «La Vurt recordz di Roma è sempre con noi e noi siamo sinceramente contenti di lavorare con ragazzi davvero in gamba come loro.»
 
-**Come avete contattato la Shut eye e cosa li ha convintia farvi firmare il contratto?**
+**Come avete contattato la Shut eye e cosa li ha convinti a farvi firmare il contratto?**
 
 «Ci hanno contattato loro. Qualcuno ha fatto ascoltare *More Traditional Than You* a Pete Knapp, il boss della Shut eye, e lui ne è rimasto entusiasta. Ci ha subito scritto chiedendoci se volevamo lavorare con loro. Cosi’ abbiamo scelto un brano tra quelli nuovi, lo abbiamo registrato e glielo abbiamo mandato».
 
@@ -46,7 +46,7 @@ Di questo abbiamo parlato con Cico, il batterista del trio.
 
 **Cos'altro ci puoi dire a proposito del nuovo album?**
 
-«Uscirà nel 2002, Messa Metronic è un piccolo assaggio. Cosa posso dirti. Potrei canticchiare qualche canzone ma non sapresti come publicarla nel tuo articolo. Comunque saremo a Radio antenna uno (104.7) la mattina del 5 ottobre per rispondere a tutte le domande possibili al telefono. E lì magari potremo anche canticchiare qualche brano dal disco nuovo».
+«Uscirà nel 2002, Messa Metronic è un piccolo assaggio. Cosa posso dirti. Potrei canticchiare qualche canzone ma non sapresti come pubblicarla nel tuo articolo. Comunque saremo a Radio antenna uno (104.7) la mattina del 5 ottobre per rispondere a tutte le domande possibili al telefono. E lì magari potremo anche canticchiare qualche brano dal disco nuovo».
 
 **Cosa è cambiato nei Radiostars dai tempi degli inizi?**
 

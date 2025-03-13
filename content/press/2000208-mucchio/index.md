@@ -38,7 +38,7 @@ Anzi, una barca con a bordo un italiano, un francese e un tedesco... allora, il 
 
 **Credete che nell’era della rivoluzione informatica il rock’n’roll sia capace di comunicare idee con la stessa forza di un tempo?**
 
-Sì, perchè non dovrebbe? Ci piace pensare che siamo ancora agli albori del rock'n'roll!!! Magari tra quattrocento anni un professore interrogherà un ragazzino che confonderà le date e dirà che Jerry Lee Lewis ha iniziato a suonare nel 1998....
+Sì, perché non dovrebbe? Ci piace pensare che siamo ancora agli albori del rock'n'roll!!! Magari tra quattrocento anni un professore interrogherà un ragazzino che confonderà le date e dirà che Jerry Lee Lewis ha iniziato a suonare nel 1998....
 Immagina il professore che dice “Beh, sì, dopotutto è quasi la stessa cosa, è un errore da nulla”... come se io oggi mi sbagliassi di quarant’anni a datare la rivoluzione francese... Capita!
 
 **Alcuni autori ascoltano musica mentre scrivono. Succede la stessa cosa anche a voi? E, in generale, a quali band state ora prestando maggior attenzione?**
@@ -54,7 +54,7 @@ Nella Vita? Beh, a volte sembra di no, ma molto probabilmente è solo un “no�
 **In che misura le vostre canzoni sono influenzate dal vissuto di ognuno di voi?**
 
 Mhhh, non sono tanto ispirate dalla nostra vita privata. Scriviamo le canzoni pensando ad ottenere un buon risultato invece di sforzarci a metterci dentro a tutti i costi noi stessi
-La tua vita ci finisce sempre dentro perchè sei tu che scrivi la canzone, ma è una cosa diversa...
+La tua vita ci finisce sempre dentro perché sei tu che scrivi la canzone, ma è una cosa diversa...
 
 **Cosa bolle attualmente in pentola per i Radiostars?**
 

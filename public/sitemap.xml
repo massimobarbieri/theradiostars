@@ -21,6 +21,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/19970607-gyno/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/19940129-covo/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/different-story/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -147,12 +159,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/19970607-gyno/</loc>
-    <lastmod>1997-06-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/discog/dancing/</loc>
     <lastmod>1997-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -197,12 +203,6 @@
   <url>
     <loc>http://localhost:1313/press/19940616-gazzetta/</loc>
     <lastmod>1994-06-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/19940129-covo/</loc>
-    <lastmod>1994-01-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
