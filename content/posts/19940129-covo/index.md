@@ -1,7 +1,7 @@
 ---
 title: "Debutto al Covo"
 #date: 2025-02-27T08:33:06+01:00
-date: 1994-01-29
+date: 2025-03-09
 showDate: true
 authors:
   - "max"
@@ -13,10 +13,12 @@ showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
 ---
-*Live al Covo di Bologna 29-01-1994*
 
 {{< youtube id="pXyLX6P1v5s" >}}
 
+{{< alert "circle-info" >}}
+*Live al Covo di Bologna 29-01-1994*
+{{< /alert >}}
 
 Con poche sessioni in sala prove, fummo pronti per registrare il nostro primo demo tape che, qualche giorno dopo, prese il titolo di *Very Clean*. Non ricordo molto delle registrazioni (naturalmente incise su musicassetta), se non una serata surreale nella quale registrammo alcune voci usando un 4 piste Tascam.
 

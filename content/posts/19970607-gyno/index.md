@@ -1,7 +1,7 @@
 ---
 title: "Dancing at the Gyno"
 #date: 2025-02-27T08:33:06+01:00
-date: 1997-06-07
+date: 2025-03-10
 showDate: true
 authors:
   - "max"
@@ -13,7 +13,9 @@ showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
 ---
+{{< alert "circle-info" >}}
 *Live al Gyno di Reggio Emilia, 07/06/1997*
+{{< /alert >}}
 
 Dopo il nostro esordio musicale avvenuto nel 1994 al Covo di Bologna, iniziammo a suonare dal vivo in svariate birrerie, discoteche, concorsi musicali e Feste dell’Unità tra Parma, Reggio Emilia e Bologna. Durante i primi concerti nel reggiano, un gruppo di punk iniziò a seguirci, accompagnandoci a ogni esibizione.
 

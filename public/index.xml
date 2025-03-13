@@ -9,7 +9,17 @@
     <managingEditor>youremail@example.com (The Radiostars)</managingEditor>
     <webMaster>youremail@example.com (The Radiostars)</webMaster>
     <copyright>© 2025 The Radiostars</copyright>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diversi tipi di vasto</title>
+      <link>http://localhost:1313/posts/20020912-live-liga/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/20020912-live-liga/</guid>
+      <description>12/09/2002. Breve resoconto emotivo del concerto in apertura a Ligabue a Reggio Emilia.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20020912-live-liga/featured.png" />
+    </item>
     
     <item>
       <title>A different story</title>
@@ -95,16 +105,6 @@
       <guid>http://localhost:1313/discog/fwmhb/</guid>
       <description>Album - ©2003 Radiostars</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discog/fwmhb/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Diversi tipi di vasto</title>
-      <link>http://localhost:1313/posts/20020912-live-liga/</link>
-      <pubDate>Thu, 12 Sep 2002 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/posts/20020912-live-liga/</guid>
-      <description>12/09/2002. Concerto in apertura a Ligabue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20020912-live-liga/featured.png" />
     </item>
     
     <item>

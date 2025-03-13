@@ -1,14 +1,14 @@
 ---
 title: "Diversi tipi di vasto"
 #date: 2025-02-27T08:33:06+01:00
-date: 2002-09-12
+date: 2025-03-13
 showDate: true
 authors:
   - "max"
 draft: false
 tags: ['Live']
 description: "Nel 2002 suonammo da spalla a Ligabue"
-summary: "12/09/2002. Concerto in apertura a Ligabue."
+summary: "12/09/2002. Breve resoconto emotivo del concerto in apertura a Ligabue a Reggio Emilia."
 showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
@@ -16,17 +16,24 @@ showTaxonomies: 'true'
 
 ![Foto live](featured.png)
 
-*Concerto in apertura a Ligabue, 12/09/2002*
+{{< alert "circle-info" >}}
+Concerto in apertura a Ligabue alla Festa Provinciale dell'Unità di Reggio Emilia del 12/09/2002
+{{< /alert >}}
 
-Dopo che aprimmo il concerto degli U2 nel 1998 e Ligabue nel 2002 spesso, amici o fans, ci chiedessero: «...com'è suonare davanti a tanta gente?»
+Dopo aver aperto il concerto degli U2 nel 1998 e quello di Ligabue nel 2002, ci capitava spesso che amici o fan ci chiedessero:
+«Com'è suonare davanti a tanta gente?»
 
-Durante i nostri live ci capitò di suonare davanti ad un pubblico "vasto". Quando suonammo all'inaugurazione del CSA Aquarius a Roncadella la stanza adibita al concerto, oltre ad essere priva di palco, era talmente murata di gente che cantai a 50 centimetri dalle prime file: avrei potuto allungare un braccio e dare una pacca sulla spalla al ragazzo di fronte a me che, assieme agli altri, cantava il ritornello di *Her own things*. Anche il CSA Inmensa di Genova, un capannone immenso che un tempo ospitava una mensa ora adibito Centro Sociale Autogestito, lo ricordo pieno imballato ...e la platea era immensa. Al Cavern di Scandiano, durante i nostri live, era normale vedere persone in piedi o all'esterno del locale. Tuttavia, in tutti i nostri concerti con un "vasto" pubblico, le persone erano centinaia, non decine di migliaia come nei concerti citati prima.
+Durante i nostri live ci trovammo più volte davanti a un pubblico "vasto". Quando suonammo all'inaugurazione del CSA Aquarius a Roncadella, la stanza adibita al concerto, priva di palco, era così gremita che cantai a soli 50 centimetri dalle prime file: avrei potuto allungare un braccio e dare una pacca sulla spalla al ragazzo di fronte a me, che, assieme agli altri, intonava il ritornello di *Her own things*. Ricordo anche il CSA Inmensa di Genova, un ex capannone industriale trasformato in Centro Sociale Autogestito, pieno all'inverosimile, con una platea davvero sterminata. E poi il Cavern di Scandiano, dove durante i nostri live era normale vedere persone in piedi all'esterno del locale, perché dentro non c'era più spazio.
 
-La differenza principale fra i diversi tipi di "vasto" è che il nostro "vasto" pubblico era lì per sentire i Radiostars, mentre il vasto pubblico di migliaia di persone paganti, ovviamente, non era lì per noi ma per gli U2 o per Ligabue. Quando salii sul palco, con un leggero groppo alla gola, ricordai le tradizionali bottigliate ai gruppi spalla, quando ancora era consentito introdurre agli spettacoli casse di acqua per placare la sete e punire i gruppi di apertura con gragnole di altissima, purissima e Levissima. In entrambi i concerti attaccammo i nostri jack e aprimmo con *Spy in the arena* e, già dalle prime note passò subito ogni timore: suono perfetto (anche per noi sul palco, cosa tutt'altro che scontata) e pubblico che rispondeva carico al nostro attacco di "Spy". Quindi niente bottigliate per i Radiostars ...neanche se il vasto pubblico le avesse avute!
+Tuttavia, in tutti questi concerti, per quanto il pubblico fosse numeroso, parliamo di centinaia di persone, non decine di migliaia, come nei concerti degli U2 o di Ligabue.
 
-Aprire a Ligabue fu emozionante come ogni concerto nel quale riesci a creare un legame con il pubblico che ascolta le tue canzoni e in qualche modo reagisce divertito. Gli applausi alla fine di ogni pezzo sono uno scroscio, le voci delle persone, che in alcuni locali riesci a distinguere e separare, sono un brusio di fondo, ma l'emozione che si prova a suonare davanti a 100 persone o a 100.000 è sempre la medesima.
+La differenza principale fra questi due tipi di "vasto" pubblico era che il nostro pubblico era lì per sentire i Radiostars, mentre quello di migliaia di persone paganti, ovviamente, non era lì per noi, ma per gli headliner. Salendo sul palco, con un leggero groppo alla gola, mi tornò in mente la vecchia tradizione delle bottigliate ai gruppi spalla, quando era ancora consentito introdurre casse d’acqua ai concerti per placare la sete e, all’occorrenza, punire le band di apertura con gragnole di altissima, purissima e Levissima.
 
-P.S. Prima del concerto gli organizzatori distribuirono al pubblico dei blister d'acqua (vedi foto in galleria) ma quel giorno nessun gruppo spalla fu maltrattato.
+In entrambi i concerti attaccammo i jack e aprimmo con *Spy in the arena*. Già dalle prime note, ogni timore svanì: il suono era perfetto (anche sul palco, cosa tutt'altro che scontata) e il pubblico reagiva con energia al nostro attacco iniziale. Nessuna bottigliata per i Radiostars... neanche se il pubblico le avesse avute!
+
+Aprire a Ligabue fu emozionante, come ogni concerto in cui riesci a creare un legame con il pubblico, percependo la sua risposta alle tue canzoni. Gli applausi a fine pezzo erano uno scroscio, le voci delle persone, che in certi locali puoi distinguere una a una, diventavano un unico brusio di fondo. Ma alla fine, l’emozione che si prova a suonare davanti a 100 persone o a 100.000 è sempre la stessa.
+
+P.S. Prima del concerto, gli organizzatori distribuirono al pubblico dei blister d’acqua (vedi foto in galleria), ma quel giorno nessun gruppo spalla fu maltrattato.
 
 ## Gallery
 {{< gallery >}}
