@@ -141,6 +141,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/19970920-carlino-reggio/</loc>
+    <lastmod>1997-09-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/press/19970804-mucchio-recensione-dancing/</loc>
     <lastmod>1997-08-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
