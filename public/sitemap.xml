@@ -99,6 +99,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20011019-reporter/</loc>
+    <lastmod>2001-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/low-watt-document/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
