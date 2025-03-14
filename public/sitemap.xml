@@ -105,14 +105,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/discog/low-watt-document/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/press/2001-intervista-gazzetta/</loc>
+    <lastmod>2001-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/press/2001-intervista-gazzetta/</loc>
-    <lastmod>2000-02-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/discog/low-watt-document/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

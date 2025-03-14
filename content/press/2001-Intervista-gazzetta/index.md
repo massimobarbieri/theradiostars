@@ -1,7 +1,7 @@
 ---
 title: "Intervista Gazzetta di Reggio 2001"
 #date: 2025-02-27T08:33:06+01:00
-date: 2000-02-08
+date: 2001-09-25
 showDate: true
 draft: false
 tags: ['Interviste', 'Press']
