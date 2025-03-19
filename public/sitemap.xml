@@ -87,6 +87,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20030314-reporter-intervista/</loc>
+    <lastmod>2003-03-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/discog/fwmhb/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
