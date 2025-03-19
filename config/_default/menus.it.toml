@@ -33,6 +33,11 @@
   weight = 22
 
 [[main]]
+  name = "Video"
+  pageRef = "tags/Video"
+  weight = 25
+
+[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 30
