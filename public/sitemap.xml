@@ -99,6 +99,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20221029-carlino-fwmhb/</loc>
+    <lastmod>2002-10-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/press/20020903-reporter/</loc>
     <lastmod>2002-09-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

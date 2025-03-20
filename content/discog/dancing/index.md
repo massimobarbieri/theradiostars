@@ -1,5 +1,5 @@
 ---
-title: "Danging le Cibaou-Cibaou"
+title: "Dancing le Cibaou-Cibaou"
 date: 1997-06-07
 draft: false
 description: "Descrizione pagina dancing"
