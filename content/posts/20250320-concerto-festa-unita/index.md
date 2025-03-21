@@ -45,7 +45,7 @@ Il giorno dopo Vincenzo Cavallarin scrisse per la Gazzetta:
 
 
 ![Marco Monney](monney.png)
-Monney il super eroe con il suo cognome tatuato sulla pancia, che dopo quella serata ci seguì in molti concerti e ci ospitò svariate volte a Antenna 1, ci ha lasciò nel 2013: decisamente troppo presto. Ma noi lo ricordiamo spesso, con affetto e con un sorriso, in quel concerto dove salì sul palco e lottò per sconfiggere i cattivi che volevano fermare la nostra musica. Grazie Marco.
+Monney, il super eroe con il cognome tatuato sulla pancia, che dopo quella serata ci seguì in molti concerti e ci ospitò svariate volte a Antenna 1, ci lasciò nel 2013. Ma noi lo ricordiamo spesso, con affetto e con un sorriso, in quel concerto dove salì sul palco e lottò per sconfiggere i cattivi che volevano fermare la nostra musica. Grazie Marco.
 
 {{< youtube id="PZvG7KcouE0" >}}
 
