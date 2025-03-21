@@ -1,7 +1,7 @@
 ---
 title: "I Radiostars non li fermi neanche staccandogli la spina"
 #date: 2025-02-27T08:33:06+01:00
-date: 1996-09-15
+date: 2025-03-21
 showDate: true
 authors:
   - "max"
