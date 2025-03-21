@@ -189,12 +189,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/20250320-concerto-festa-unita/</loc>
-    <lastmod>1997-06-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/press/19970607-articolo-live-gyno/</loc>
     <lastmod>1997-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -203,6 +197,12 @@
   <url>
     <loc>http://localhost:1313/posts/000-post-template/</loc>
     <lastmod>1997-06-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/20250320-concerto-festa-unita/</loc>
+    <lastmod>1996-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

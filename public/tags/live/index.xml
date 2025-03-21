@@ -42,16 +42,6 @@
     </item>
     
     <item>
-      <title>I Radiostars non li fermi neanche staccandogli la spina</title>
-      <link>http://localhost:1313/posts/20250320-concerto-festa-unita/</link>
-      <pubDate>Sat, 07 Jun 1997 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (The Radiostars)</author>
-      <guid>http://localhost:1313/posts/20250320-concerto-festa-unita/</guid>
-      <description>15(forse)/09/1996. Quel concerto che provarono ad interrompere alla Festa dell&amp;rsquo;Unità di Reggio Emilia</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20250320-concerto-festa-unita/featured.png" />
-    </item>
-    
-    <item>
       <title>Titolo</title>
       <link>http://localhost:1313/posts/000-post-template/</link>
       <pubDate>Sat, 07 Jun 1997 00:00:00 +0000</pubDate>
@@ -59,6 +49,16 @@
       <guid>http://localhost:1313/posts/000-post-template/</guid>
       <description>07/06/1997. Sommario di presentazione</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/000-post-template/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>I Radiostars non li fermi neanche staccandogli la spina</title>
+      <link>http://localhost:1313/posts/20250320-concerto-festa-unita/</link>
+      <pubDate>Sun, 15 Sep 1996 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/posts/20250320-concerto-festa-unita/</guid>
+      <description>15(forse)/09/1996. Quel concerto che provarono ad interrompere alla Festa dell&amp;rsquo;Unità di Reggio Emilia</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20250320-concerto-festa-unita/featured.png" />
     </item>
     
   </channel>
