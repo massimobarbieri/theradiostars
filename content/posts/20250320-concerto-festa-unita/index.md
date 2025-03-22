@@ -6,7 +6,7 @@ showDate: true
 authors:
   - "max"
 draft: false
-tags: ['Live']
+tags: ['Live','Video']
 description: "Descrizione della pagina per i metadati"
 summary: "15(forse)/09/1996. Quella sera in cui provarono a interrompere il concerto ma i nostri fans non lo permisero."
 showSummary: 'true'

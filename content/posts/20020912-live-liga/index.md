@@ -6,7 +6,7 @@ showDate: true
 authors:
   - "max"
 draft: false
-tags: ['Live']
+tags: ['Live','Video']
 description: "Nel 2002 suonammo da spalla a Ligabue"
 summary: "12/09/2002. Breve resoconto emotivo del concerto in apertura a Ligabue a Reggio Emilia."
 showSummary: 'true'

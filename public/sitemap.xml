@@ -135,8 +135,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/press/20001101-freebird/</loc>
+    <lastmod>2000-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/press/2000208-mucchio/</loc>
     <lastmod>2000-02-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/press/20000120-stradanove/</loc>
+    <lastmod>2000-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

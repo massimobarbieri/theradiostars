@@ -11,7 +11,7 @@ showSummary: 'true'
 showTaxonomies: 'true'
 #sharingLinks: [ "twitter", "mastodon", "facebook", "telegram"]
 ---
-![Articolo P1](featured.jpg)
+![Articolo P1](featured.png)
 
 {{< icon "circle-info" >}}Riferimenti dell'articolo: es. autore rivista ecc.
 
