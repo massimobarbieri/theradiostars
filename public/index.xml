@@ -218,6 +218,16 @@
     </item>
     
     <item>
+      <title>Radiostars, tradizione e avanguardia andata e ritorno</title>
+      <link>http://localhost:1313/press/20000201-tuttoreggio/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/20000201-tuttoreggio/</guid>
+      <description>Incontriamo i membri del gruppo che da Scandiano ha saputo farsi strada fino ad arrivare in Europa. Sempre in equilibrio fra innovazione e recupero del passato. Intervista di Raffaele Manfredi per Tutto Reggio, Febbraio 2000</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/20000201-tuttoreggio/featured.png" />
+    </item>
+    
+    <item>
       <title>Recensione di More traditional than you su Stradanove</title>
       <link>http://localhost:1313/press/20000120-stradanove/</link>
       <pubDate>Thu, 20 Jan 2000 00:00:00 +0000</pubDate>
@@ -248,6 +258,16 @@
     </item>
     
     <item>
+      <title>Il pop rock dei Radiostars</title>
+      <link>http://localhost:1313/press/19990108-gazzetta/</link>
+      <pubDate>Fri, 08 Jan 1999 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19990108-gazzetta/</guid>
+      <description>Articolo della Gazzetta di Reggio di venerdì 8 gennaio 1999</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19990108-gazzetta/featured.png" />
+    </item>
+    
+    <item>
       <title>Fist full of Freebird - Egg n.1</title>
       <link>http://localhost:1313/discog/fist-full-of-freebird/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
@@ -258,6 +278,26 @@
     </item>
     
     <item>
+      <title>Radiostars, rock d&#39;Olanda</title>
+      <link>http://localhost:1313/press/19980913-carlino/</link>
+      <pubDate>Sun, 13 Sep 1998 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19980913-carlino/</guid>
+      <description>Articolo di Paolo Pergolizzi per il Resto del Carlino del 13 settembre 1998</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19980913-carlino/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cibaou portafortuna</title>
+      <link>http://localhost:1313/press/19980504-gazzetta/</link>
+      <pubDate>Mon, 04 May 1998 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19980504-gazzetta/</guid>
+      <description>Il Radiostars, tre simpatici scandianesi sul palco degli U2. Articolo di Marco Macchi per la Gazzetta di Reggio, 4 maggio 1998</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19980504-gazzetta/featured.png" />
+    </item>
+    
+    <item>
       <title>Intervista su Mucchio Selvaggio (num. 288)</title>
       <link>http://localhost:1313/press/19980101-mucchio-intervista/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
@@ -265,6 +305,16 @@
       <guid>http://localhost:1313/press/19980101-mucchio-intervista/</guid>
       <description>Gennaio 1998. Intervista a cura di Francesco Battirsti per Mucchio Selvaggio</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19980101-mucchio-intervista/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Riflettori anche per i Radiostars</title>
+      <link>http://localhost:1313/press/19970927-unita/</link>
+      <pubDate>Tue, 23 Sep 1997 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (The Radiostars)</author>
+      <guid>http://localhost:1313/press/19970927-unita/</guid>
+      <description>Il gruppo composto da tre scandianesi genialoidi ha suonato sul palco di MTV. Articolo per il quotidiano L Unità anno 74 n.225 del 23/09/1997</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/press/19970927-unita/featured.png" />
     </item>
     
     <item>
